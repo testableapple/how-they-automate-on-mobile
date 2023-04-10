@@ -90,8 +90,12 @@
 <details>
   <summary>Avito</summary>
 
+* [Open source: CI/CD and test infrastructure for Android](https://avito-tech.github.io/avito-android/blog/2019/12/open-source-introduction/), 2019
+* [Workaround for Android lint that doesn't use Gradle Worker API](https://avito-tech.github.io/avito-android/blog/2020/02/lint-worker-api-workaround/), 2020
+* [Removal of ui tests impact analysis functionality](https://avito-tech.github.io/avito-android/blog/2021/01/ui-impact-analysis-end/), 2021
 * [Which hardware are you using to run your CI](https://github.com/MobileNativeFoundation/discussions/discussions/23#discussioncomment-487395), 2021
 * [Testing strategy](https://github.com/MobileNativeFoundation/discussions/discussions/6#discussioncomment-432246), 2021
+* [Emcee — the test runner for iOS developers](https://medium.com/avitotech/emcee-b8b2a10f7795), 2022
 
 </details>
 
