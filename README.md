@@ -391,6 +391,13 @@
 </details>
 
 <details>
+  <summary>Parimatch Tech</summary>
+
+* [PMetrium Native - let's measure the performance of native applications](https://medium.com/parimatch-tech/pmetrium-native-lets-measure-the-performance-of-native-applications-76f2ef2a9244), 2022
+
+</details>
+
+<details>
   <summary>PayPal</summary>
 
 * [Write Once, Test Everywhere — Simplified SDK Testing](https://medium.com/paypal-tech/write-once-test-everywhere-simplified-sdk-testing-6ea11e7d1f27), 2021
