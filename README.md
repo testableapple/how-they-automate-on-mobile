@@ -398,6 +398,19 @@
 </details>
 
 <details>
+  <summary>Pinterest</summary>
+
+* [Continuous integration for iOS with Nix and Buildkite](https://medium.com/pinterest-engineering/continuous-integration-for-ios-with-nix-and-buildkite-ef5b36c5292d), 2017
+* [iOS linting at Pinterest](https://medium.com/pinterest-engineering/ios-linting-at-pinterest-3108d8764390), 2017
+* [Developing fast & reliable iOS builds at Pinterest](https://medium.com/pinterest-engineering/developing-fast-reliable-ios-builds-at-pinterest-part-one-cb1810407b92), 2019
+* [Ad Metrics Quality and Testing on Mobile](https://medium.com/pinterest-engineering/ad-metrics-quality-and-testing-on-mobile-fae9e70e7761), 2019
+* [Pinterest + ktlint = ❤](https://medium.com/pinterest-engineering/pinterest-ktlint-4b8543aa8d12), 2021
+* [Moving Pinterest’s iOS Builds to Autoscaled EC2 Mac](https://buildkite.com/blog/moving-pinterest-s-ios-builds-to-autoscaled-ec2-mac), 2022
+* [Pre-Submit UI Tests at Pinterest](https://medium.com/pinterest-engineering/pre-submit-ui-tests-at-pinterest-556be1611be), 2022
+
+</details>
+
+<details>
   <summary>Razorpay</summary>
 
 * [Releasing features with confidence in your mobile app](https://engineering.razorpay.com/releasing-features-with-confidence-in-the-mobile-app-b3abf73d6646), 2022
