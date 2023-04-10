@@ -553,6 +553,14 @@
 </details>
 
 <details>
+  <summary>WeTransfer</summary>
+
+* [Inside WeTransfer’s App Testing Process with Antoine van der Lee](https://semaphoreci.com/blog/inside-wetransfer-testing-process), 2019
+* [Behind the scenes of building high-rated apps with Antoine van der Lee](https://bitrise.io/blog/post/building-high-rated-apps-antoine-van-der-lee), 2022
+
+</details>
+
+<details>
   <summary>Wix</summary>
 
 * [Detox: Graybox End to End Tests and Automation Library for Mobile Apps](https://www.youtube.com/watch?v=qiRJT5Eig3g), 2017
