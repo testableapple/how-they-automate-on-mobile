@@ -603,7 +603,13 @@
 
 </details>
 
-## Contribution
+## Contributors
+
+<a href="https://github.com/testableapple/how-they-automate-on-mobile/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=testableapple/how-they-automate-on-mobile" />
+</a>
+
+## Contributing
 
 Want to contribute? Just fork and raise a PR!
 
