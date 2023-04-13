@@ -432,6 +432,16 @@
 </details>
 
 <details>
+  <summary>Reddit</summary>
+
+* [Reddit Recap: State of Mobile Platforms Edition](https://www.reddit.com/r/RedditEng/comments/zkap1u/reddit_recap_state_of_mobile_platforms_edition), 2022
+* [iOS and Bazel at Reddit: A Journey](https://reddit.com/r/RedditEng/comments/syz5dw/ios_and_bazel_at_reddit_a_journey), 2022
+* [Optimizing the Android CI Pipeline with AffectedModuleDetector](https://www.reddit.com/r/RedditEng/comments/tqdoql/optimizing_the_android_ci_pipeline_with), 2022
+* [Reddit’s E2E UI Automation Framework for Android](https://reddit.com/r/RedditEng/comments/11x5iwv/reddits_e2e_ui_automation_framework_for_android), 2023
+
+</details>
+
+<details>
   <summary>Robinhood</summary>
 
 * [Testing strategy](https://github.com/MobileNativeFoundation/discussions/discussions/6#discussioncomment-421701), 2021
