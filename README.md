@@ -566,6 +566,17 @@
 </details>
 
 <details>
+  <summary>Turo</summary>
+
+* [Android UI Testing with Firebase](https://medium.com/turo-engineering/android-ui-testing-with-firebase-d4f8d48419f7), 2018
+* [Automatic Android releases using Fastlane](https://medium.com/turo-engineering/automatic-android-releases-using-fastlane-45d2ded176c2), 2018
+* [Would Xcode Cloud replace our current CI/CD solution?](https://medium.com/turo-engineering/would-xcode-cloud-replace-our-current-ci-cd-solution-fd373773fe17), 2021
+* [Improving our CI/CD with GitHub Actions](https://medium.com/turo-engineering/improving-our-ci-cd-with-github-actions-4156a8e143aa), 2022
+* [How we reduced our Android startup time by 77%](https://medium.com/turo-engineering/how-we-reduced-our-android-startup-time-by-77-650cc113c3dc), 2023
+
+</details>
+
+<details>
   <summary>Uber</summary>
 
 * [The Uber Challenge of Cross-Application/Cross-Device Testing](https://www.youtube.com/watch?v=p6gsssppeT0), 2015
