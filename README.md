@@ -442,6 +442,16 @@
 </details>
 
 <details>
+  <summary>Revolut</summary>
+
+* [The Fundamentals of iOS at Revolut](https://medium.com/revolut/the-fundamentals-of-ios-at-revolut-57422078c903), 2020
+* [Best Practices For Unit Testing at Revolut](https://medium.com/revolut/best-practices-for-unit-testing-at-revolut-45428879ca07), 2021
+* [Monitoring performance of screens in your iOS app](https://medium.com/revolut/monitoring-performance-of-screens-in-your-ios-app-4267f6649b19), 2022
+* [The Fundamentals of Android at Revolut](https://medium.com/revolut/the-fundamentals-of-android-at-revolut-3537101a2c7c), 2023
+
+</details>
+
+<details>
   <summary>Robinhood</summary>
 
 * [Testing strategy](https://github.com/MobileNativeFoundation/discussions/discussions/6#discussioncomment-421701), 2021
