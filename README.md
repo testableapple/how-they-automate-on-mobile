@@ -520,6 +520,27 @@
 </details>
 
 <details>
+  <summary>Square</summary>
+
+* [iOS Integration Testing, Part 1](https://developer.squareup.com/blog/ios-integration-testing/), 2011
+* [iOS Integration Testing, Part 2](https://developer.squareup.com/blog/ios-integration-testing-part-2/), 2011
+* [Better Android Testing with Robolectric 2.0](https://developer.squareup.com/blog/better-android-testing-with-robolectric-2-0/), 2013
+* [The Resurrection of Testing for Android](https://developer.squareup.com/blog/the-resurrection-of-testing-for-android/), 2013
+* [iOS Build Infrastructure](https://developer.squareup.com/blog/ios-build-infrastructure/), 2015
+* [iOS 9 upgrade: Why did my unit tests grind to a halt?](https://developer.squareup.com/blog/ios-9-upgrade-why-did-my-unit-tests-grind-to-a-halt/), 2016
+* [XCKnife: faster distributed tests for iOS](https://developer.squareup.com/blog/xcknife-faster-distributed-tests-for-ios/), 2016
+* [measureBlock: How Does Performance Testing Work In iOS?](https://developer.squareup.com/blog/measureblock-how-does-performance-testing-work-in-ios/), 2018
+* [Announcing cocoapods-generate](https://developer.squareup.com/blog/announcing-cocoapods-generate/), 2018
+* [Shipping Binary Frameworks With Swift 5.0](https://developer.squareup.com/blog/shipping-binary-frameworks-with-swift-5-0/), 2019
+* [Instrumenting Firebase Test Lab](https://developer.squareup.com/blog/instrumenting-firebase-test-lab/), 2020
+* [Kotlin-Multiplatform Shared Test Resources](https://developer.squareup.com/blog/kotlin-multiplatform-shared-test-resources/), 2021
+* [Herding Elephants](https://developer.squareup.com/blog/herding-elephants/), 2021
+* [Getting Square's iOS build ready for Apple Silicon with Bazel](https://developer.squareup.com/blog/getting-squares-ios-build-ready-for-apple-silicon-with-bazel/), 2022
+* [Stampeding Elephants](https://developer.squareup.com/blog/stampeding-elephants), 2023
+
+</details>
+
+<details>
   <summary>Strava</summary>
 
 * [Release process](https://github.com/MobileNativeFoundation/discussions/discussions/67#discussioncomment-494123), 2021
