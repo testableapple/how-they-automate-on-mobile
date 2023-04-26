@@ -117,6 +117,16 @@
 </details>
 
 <details>
+  <summary>BlaBlaCar</summary>
+
+* [4 tips to master XCTestExpectation](https://medium.com/blablacar/4-tips-to-master-xctestexpectation-aee2b2631d93), 2017
+* [Building our Lego library on iOS](https://medium.com/blablacar/building-our-lego-library-on-ios-35da0142b962), 2017
+* [Reducing the build time of BlaBlaCar’s Android app](https://medium.com/blablacar/reducing-the-build-time-of-blablacars-android-app-549774e3c0df), 2021
+* [How to make your Android app resilient to process death?](https://medium.com/blablacar/how-to-make-your-android-app-resilient-to-process-death-bdd3fbcfbf9e), 2022
+
+</details>
+
+<details>
   <summary>CapitalOne</summary>
 
 * [Test-Driven Development – Ready, Set, Go with Google Cloud Test Lab](https://medium.com/capital-one-tech/be-ready-for-tdd-google-cloud-test-lab-20b07ddabc8b), 2016
