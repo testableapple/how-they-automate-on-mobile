@@ -293,6 +293,14 @@
 </details>
 
 <details>
+  <summary>HubSpot</summary>
+
+* [Using CocoaPods to Modularize a Big iOS App](https://product.hubspot.com/blog/architecting-a-large-ios-app-with-cocoapods), 2014
+* [Update: How We're Building iOS Apps Today](https://product.hubspot.com/blog/update-how-were-building-ios-apps-today), 2017
+
+</details>
+
+<details>
   <summary>hh.ru</summary>
 
 * [Automating the release process](https://medium.com/hh-ru/automating-the-release-process-af8f97edc7bc), 2022
