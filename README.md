@@ -100,6 +100,17 @@
 </details>
 
 <details>
+  <summary>Babbel</summary>
+
+* [Continuous integration for mobile](https://www.babbel.com/en/magazine/continuous-integration-for-mobile), 2015
+* [An approach to TDD in Android](https://www.babbel.com/en/magazine/an-approach-to-tdd-in-android), 2016
+* [Android Modular Project – Organizing your library dependencies](https://www.babbel.com/en/magazine/android-modular-project-organizing-your-library-dependencies), 2017
+* [Introduction to Test Automation](https://www.babbel.com/en/magazine/introduction-to-test-automation), 2017
+* [Different ways to manage feature toggles on iOS](https://www.babbel.com/en/magazine/different-ways-to-manage-feature-toggles-on-ios), 2019
+
+</details>
+
+<details>
   <summary>Badoo</summary>
 
 * [iOS Parallel Automation](https://www.youtube.com/watch?v=bAH4hky-1Ac), 2017
