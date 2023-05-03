@@ -362,6 +362,11 @@
 
 * [Which hardware are you using to run your CI](https://github.com/MobileNativeFoundation/discussions/discussions/23#discussioncomment-426356), 2021
 * [Testing strategy](https://github.com/MobileNativeFoundation/discussions/discussions/6#discussioncomment-420233), 2021
+* [Building an Enterprise IntelliJ Plugin for Android Developers](https://eng.lyft.com/building-an-enterprise-intellij-plugin-for-android-developers-e265c0038203), 2021
+* [Mobile Performance @ Lyft](https://eng.lyft.com/mobile-performance-lyft-68d0e5185024), 2021
+* [Monitoring CPU performance of Lyft’s Android applications](https://eng.lyft.com/monitoring-cpu-performance-of-lyfts-android-applications-4e36fafffe12), 2022
+* [Shift-Left iOS Testing with Focus Flows](https://eng.lyft.com/shift-left-ios-testing-with-focus-flows-c9e050bd2095), 2022
+* [Detecting Android memory leaks in production](https://eng.lyft.com/detecting-android-memory-leaks-in-production-29e9c97e2ba1), 2023
 
 </details>
 
