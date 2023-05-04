@@ -193,6 +193,16 @@
 </details>
 
 <details>
+  <summary>Compass</summary>
+
+* [Compass Mobile Engineering](https://medium.com/compass-true-north/compass-mobile-engineering-58834af85289), 2017
+* [Automated Mobile Distributions](https://medium.com/compass-true-north/automated-mobile-distributions-15e3791f11c7), 2017
+* [How to UI Test Push Notifications and Universal Links in the iOS Simulator](https://medium.com/compass-true-north/how-to-ui-test-push-notifications-and-universal-links-in-the-ios-simulator-81cc43b33f81), 2021
+* [Moving Fast With Maps (Automation) On iOS](https://medium.com/compass-true-north/moving-fast-with-maps-automation-on-ios-e8801f2ac901), 2021
+
+</details>
+
+<details>
   <summary>eBay</summary>
 
 * [Functional iOS Testing in Swift](https://tech.ebayinc.com/engineering/functional-ios-testing-in-swift/), 2015
