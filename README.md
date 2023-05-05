@@ -180,8 +180,15 @@
 <details>
   <summary>DoorDash</summary>
 
+* [Why We Use KIF-Quick for User Interface Tests](https://doordash.engineering/2016/12/26/why-we-use-kif-quick-for-user-interface-tests/), 2016
+* [Using Automated Testing to Scale Android Development with a Growing Team](https://doordash.engineering/2017/06/26/using-automated-testing-to-scale-android-development-with-a-growing-team/), 2017
 * [Contract Testing with Pact](https://doordash.engineering/2018/11/05/contract-testing-with-pact/), 2018
+* [How to detect iOS memory leaks and retain cycles using Xcode’s memory graph debugger](https://doordash.engineering/2019/05/22/ios-memory-leaks-and-retain-cycle-detection-using-xcodes-memory-graph-debugger/), 2019
+* [Our "Tech Stack" in the Android Dasher App](https://doordash.engineering/2019/12/12/our-tech-stack-in-the-android-dasher-app/), 2019
 * [A Framework For Speedy and Scalable Development Of Android UI Tests](https://doordash.engineering/2020/08/19/speedy-and-scalable-development-of-android-mobile-ui-tests/), 2020
+* [Building Multiple Distinctly Branded iOS Apps from a Single Codebase](https://doordash.engineering/2021/03/02/multiple-ios-apps-single-codebase/), 2021
+* [How to Speed Up SwiftUI Development and Testing Using PreviewSnapshots](https://doordash.engineering/2023/01/18/how-to-speed-up-swiftui-development-and-testing-using-previewsnapshots/), 2023
+* [How We Reduced Our iOS App Launch Time by 60%](https://doordash.engineering/2023/01/31/how-we-reduced-our-ios-app-launch-time-by-60/), 2023
 
 </details>
 
