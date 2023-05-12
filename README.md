@@ -34,10 +34,17 @@
 <details>
   <summary>Airbnb</summary>
 
+* [Writing fast, deterministic and accurate Android Integration tests](https://medium.com/airbnb-engineering/writing-fast-deterministic-and-accurate-android-integration-tests-c56811bd14e2), 2017
+* [Building Mixed-Language iOS Project with Buck](https://medium.com/airbnb-engineering/building-mixed-language-ios-project-with-buck-8a903b0e3e56), 2017
+* [Our Swift Style Guide Is Now Open Source](https://medium.com/airbnb-engineering/our-swift-style-guide-is-now-open-source-d5cb99d2f626), 2019
 * [Better Android Testing](https://medium.com/airbnb-engineering/better-android-testing-at-airbnb-3f5b90b9c40a), 2019 (series of articles)
 * [Which hardware are you using to run your CI](https://github.com/MobileNativeFoundation/discussions/discussions/23#discussioncomment-486325), 2021
 * [Accelerating Mobile UI](https://www.facebook.com/AirbnbTech/videos/1650114051841128/), 2021
 * [Testing strategy](https://github.com/MobileNativeFoundation/discussions/discussions/6#discussioncomment-427538), 2021
+* [Airbnb’s Page Performance Score on iOS](https://medium.com/airbnb-engineering/airbnbs-page-performance-score-on-ios-36d5f200bc73), 2021
+* [Airbnb’s Page Performance Score on Android](https://medium.com/airbnb-engineering/airbnbs-page-performance-score-on-android-f9fd5e733e), 2021
+* [Automated UI Infrastructure in Jetpack Compose using KSP](https://www.youtube.com/watch?v=9fVoqEFWTNI), 2023
+* [Flexible Continuous Integration for iOS](https://medium.com/airbnb-engineering/flexible-continuous-integration-for-ios-4ab33ea4072f), 2023
 
 </details>
 
