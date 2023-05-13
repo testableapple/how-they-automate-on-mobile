@@ -222,7 +222,11 @@
 * [Functional iOS Testing in Swift](https://tech.ebayinc.com/engineering/functional-ios-testing-in-swift/), 2015
 * [Test automation for Android testing](https://www.youtube.com/watch?v=VZP6aZq8I-k), 2016
 * [Parallizing UI tests on iOS](https://www.youtube.com/watch?v=-JMMujEaqvs), 2016
+* [Android Accessibility Automation with Espresso](https://tech.ebayinc.com/engineering/android-accessibility-automation-with-espresso/), 2017
+* [Speed By A Thousand Cuts](https://tech.ebayinc.com/engineering/speed-by-a-thousand-cuts/), 2020
 * [eBay Motors: Screenshot Testing with Flutter](https://tech.ebayinc.com/engineering/ebay-motors-screenshot-testing-with-flutter/), 2020
+* [Homepage Speed Improvements on eBay Android](https://tech.ebayinc.com/engineering/homepage-speed-improvements-on-ebay-android/), 2020
+* [The Journey to Integrating Android App Bundles](https://tech.ebayinc.com/engineering/the-journey-to-integrating-android-app-bundles/), 2020
 
 </details>
 
