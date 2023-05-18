@@ -698,6 +698,7 @@
 * [Octopus to the Rescue: the Fascinating World of Inter-App Communications at Uber Engineering](https://www.uber.com/en-IE/blog/rescued-by-octopus/), 2015
 * [Using the Octopus Framework](https://www.youtube.com/watch?v=80wc8gWebrk), 2016
 * [Testing strategy](https://github.com/MobileNativeFoundation/discussions/discussions/6#discussioncomment-421035), 2020
+* [Measuring Performance for iOS Apps at Uber Scale](https://www.uber.com/en-US/blog/measuring-performance-for-ios-apps-at-uber-scale/), 2023
 
 </details>
 
