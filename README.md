@@ -677,6 +677,11 @@
 * [Meaningful Error Messages for iOS UI Tests](https://medium.com/trendyol-tech/meaningful-error-messages-for-ios-ui-tests-6085ce15b78), 2021
 * [Make UI Testing possible with TYGenerator](https://medium.com/trendyol-tech/make-ui-testing-possible-with-tygenerator-c3654425d782), 2021
 * [Automated Visual Testing With Snapshots](https://medium.com/trendyol-tech/automated-visual-testing-with-snapshots-part-1-ee9c5cf58cca), 2021 (series of articles)
+* [Modularising Trendyol Android App for Build Efficiency](https://medium.com/trendyol-tech/modularising-trendyol-android-app-for-build-efficiency-94f6b79fc012), 2022
+* [Distribute Unclear Responsibilities in The Team With Automation](https://medium.com/trendyol-tech/distribute-unclear-responsibilities-in-the-team-with-automation-70eac66fb6e9), 2022
+* [Sample Apps to Achieve 80% Shorter Build Times in Trendyol Android Project](https://medium.com/trendyol-tech/sample-apps-to-achieve-shorter-build-times-in-trendyol-android-project-d664f454a36c), 2023
+* [Revamping Trendyol’s iOS App: A Modularization Success Story](https://medium.com/trendyol-tech/revamping-trendyols-ios-app-a-modularization-success-story-a6c1d2c4188b), 2023
+* [Mock Generator Development With Using Mockolo Library](https://medium.com/trendyol-tech/mock-generator-development-with-using-mockolo-library-c8c273f77d1b), 2023
 
 </details>
 
