@@ -244,7 +244,10 @@
   <summary>Etsy</summary>
 
 * [Etsy's Device Lab](https://www.etsy.com/codeascraft/mobile-device-lab/), 2013
+* [Static Analysis with OCLint](https://www.etsy.com/codeascraft/static-analysis-with-oclint), 2014
 * [Etsy’s Journey to Continuous Integration for Mobile Apps](https://www.etsy.com/codeascraft/etsys-journey-to-continuous-integration-for-mobile-apps/), 2014
+* [Building a Better Mobile Crash Analytics Platform](https://www.etsy.com/codeascraft/building-a-better-mobile-crash-analytics-platform), 2016
+* [How Etsy Ships Apps](https://www.etsy.com/codeascraft/how-etsy-ships-apps), 2017
 * [Culture of Quality: Measuring Code Coverage at Etsy](https://www.etsy.com/codeascraft/culture-of-quality-measuring-code-coverage-at-etsy/), 2018
 
 </details>
