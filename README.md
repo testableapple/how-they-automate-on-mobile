@@ -290,6 +290,14 @@
 </details>
 
 <details>
+  <summary>Flipkart</summary>
+
+* [Optimising Flipkart Android App size to sub 10 MB](https://blog.flipkart.tech/optimising-flipkart-android-app-size-to-sub-10-mb-b290d6c29b82), 2018
+* [The Journey of React-Native @ Flipkart](https://blog.flipkart.tech/the-journey-of-react-native-flipkart-47dcd0c3d1c6), 2020
+
+</details>
+
+<details>
   <summary>Ford</summary>
 
 * [Testing strategy](https://github.com/MobileNativeFoundation/discussions/discussions/6#discussioncomment-423977), 2021
