@@ -425,6 +425,14 @@
 </details>
 
 <details>
+  <summary>leboncoin</summary>
+
+* [Xcode Cloud: Feedback from leboncoin](https://medium.com/leboncoin-engineering-blog/xcode-cloud-feedback-from-leboncoin-82991326faa0), 2022
+* [Achieving higher test coverage: Our approach to UI testing on iOS](https://medium.com/leboncoin-engineering-blog/achieving-higher-test-coverage-our-approach-to-ui-testing-on-ios-8878003b2f88), 2023
+
+</details>
+
+<details>
   <summary>LinkedIn</summary>
 
 * [Mock the Internet](https://www.youtube.com/watch?v=6gPNrujpmn0), 2015
