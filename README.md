@@ -298,6 +298,14 @@
 </details>
 
 <details>
+  <summary>FloBiz</summary>
+
+* [Create your own Android Library & Publish it](https://medium.com/flobiz-blog/create-your-own-android-library-publish-it-1b55bb492ce7), 2021
+* [Android CI/CD at myBillBook](https://blog.flipkart.tech/the-journey-of-react-native-flipkart-47dcd0c3d1c6), 2023
+
+</details>
+
+<details>
   <summary>Ford</summary>
 
 * [Testing strategy](https://github.com/MobileNativeFoundation/discussions/discussions/6#discussioncomment-423977), 2021
