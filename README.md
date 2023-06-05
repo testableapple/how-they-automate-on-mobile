@@ -341,10 +341,20 @@
 </details>
 
 <details>
-  <summary>GoJek</summary>
+  <summary>Gojek</summary>
 
-* [Screenshot Testing our Design System on Android](https://blog.gojek.io/screenshot-testing-our-design-system-on-android/), 2020
-* [Test Mobile Apps Using Web Traffic Interception and Mocking](https://blog.gojek.io/test-mobile-apps-using-web-traffic-interception-and-mocking/), 2020
+* [How to Use Templates to Improve the Android Studio Experience](https://www.gojek.io/blog/how-to-use-templates-to-improve-the-android-studio-experience), 2019
+* [How We Improved Performance and Build Times in Android Studio](https://www.gojek.io/blog/how-we-improved-performance-and-build-times-in-android-studio), 2019
+* [Screenshot Testing our Design System on Android](https://blog.gojek.io/screenshot-testing-our-design-system-on-android), 2020
+* [Test Mobile Apps Using Web Traffic Interception and Mocking](https://blog.gojek.io/test-mobile-apps-using-web-traffic-interception-and-mocking), 2020
+* [Running CI for mobile engineers at scale](https://www.gojek.io/blog/running-ci-for-mobile-engineers-at-scale), 2020
+* [Reducing Build Time For Gojek #SuperApp](https://www.gojek.io/blog/reducing-build-time-for-gojek-superapp), 2020
+* [Making Our iOS Components Accessible](https://www.gojek.io/blog/making-our-ios-components-accessible), 2021
+* [Better Secure Than Sorry | Tips To Secure An iOS App](https://www.gojek.io/blog/tips-to-secure-ios-app), 2021
+* [Mono Repo Vs Multi Repo: Tips To Re-evaluate Codebase Structure](https://www.gojek.io/blog/mono-repo-vs-multi-repo-tips-to-re-evaluate-codebase-structure), 2021
+* [Reducing Our Build Time By 50%](https://www.gojek.io/blog/reducing-our-build-time-by-50), 2022
+* [Demystifying Code Generation On iOS](https://www.gojek.io/blog/demystifying-code-generation-on-ios), 2022
+* [Migrating An Xcode Command Line Tool Project to SPM](https://www.gojek.io/blog/migrating-an-xcode-command-line-tool-project-to-spm), 2022
 
 </details>
 
