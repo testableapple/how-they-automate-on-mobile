@@ -711,6 +711,26 @@
 </details>
 
 <details>
+  <summary>Tokopedia</summary>
+
+* [How We Solve The Sideloading Crash After App Bundle Implementation](https://medium.com/tokopedia-engineering/how-we-solve-the-sideloading-crash-after-app-bundle-implementation-40094721b525), 2019
+* [Release Strategy — a twisted tale in apps](https://medium.com/tokopedia-engineering/release-strategy-a-twisted-tale-in-apps-560de6acf164), 2019
+* [Modern Way to Reduce Your Android Apps Size With Dynamic Feature](https://medium.com/tokopedia-engineering/the-benefits-and-challenges-of-android-dynamic-feature-in-tokopedia-4233641f33d1), 2020
+* [Understanding the aspects of iOS App Launch Time](https://medium.com/tokopedia-engineering/understanding-the-aspects-of-ios-app-launch-time-9b579534625f), 2020
+* [Automating Image Compression Using TinyPng & Git Hooks](https://medium.com/tokopedia-engineering/automating-image-compression-using-tinypng-git-hooks-8c7b08afbf64), 2020
+* [How Tokopedia Achieved 1000% Faster iOS Build Time](https://medium.com/tokopedia-engineering/how-tokopedia-achieved-1000-faster-ios-build-time-7664b2d8ae5), 2020
+* [Simplify Code Review Process with Auto Mention Code Review Systems](https://medium.com/tokopedia-engineering/simplify-code-review-process-with-auto-mention-code-review-systems-ca2264de16a9), 2020
+* [Making Developers Life Easier With Jenkins-Slack Integration](https://medium.com/tokopedia-engineering/making-developers-life-easier-with-jenkins-slack-integration-598096c49b23), 2020
+* [Monitoring Android Codebase](https://medium.com/tokopedia-engineering/monitoring-android-codebase-83746800f4c2), 2020
+* [Continuous Integration Google Play Store Internal App Sharing In Tokopedia](https://medium.com/tokopedia-engineering/continuous-integration-google-play-store-internal-app-sharing-in-tokopedia-4cc55994a7e1), 2020
+* [Saving Tons of Time and Money During Remote Work with Auto Upload APK System](https://medium.com/tokopedia-engineering/saving-tons-of-time-and-money-during-remote-work-with-auto-upload-apk-system-c3f765426191), 2021
+* [Facilitate Your iOS Crash Log Translation For Numerous Builds](https://medium.com/tokopedia-engineering/facilitate-your-ios-crash-log-translation-for-numerous-builds-8cbd614fe88b), 2022
+* [Getting Started with iOS App Modularization — An Introduction](https://medium.com/tokopedia-engineering/getting-started-with-ios-app-modularization-an-introduction-e1ee1b3ead6a), 2022 (series of articles)
+* [Stop Wasting Time on Unit Testing: How Tokopedia Achieved 8X Faster Results](https://medium.com/tokopedia-engineering/stop-wasting-time-on-unit-testing-how-tokopedia-achieved-8x-faster-results-f0491de2d46a), 2023
+
+</details>
+
+<details>
   <summary>Trendyol</summary>
 
 * [Get the Most Out of UI Tests With XCode Test Plans](https://medium.com/trendyol-tech/get-the-most-out-of-ui-tests-with-xcode-test-plans-d089a2252ba2), 2020
