@@ -397,6 +397,19 @@
 </details>
 
 <details>
+  <summary>Huawei</summary>
+
+* [Android | Product Flavors and Build Variants](https://medium.com/huawei-developers/android-product-flavors-and-build-variants-6d8b66a3f541), 2020
+* [Automate Deployment to Huawei AppGallery Connect using Fastlane](https://medium.com/huawei-developers/automate-deployment-to-huawei-appgallery-connect-using-fastlane-4064db91cce8), 2020
+* [React Native | Integrating Your Applications With AppGallery Connect](https://medium.com/huawei-developers/react-native-integrating-your-applications-with-appgallery-connect-a090cba45a8), 2021
+* [Android UI Testing Made Easy: Espresso vs. Barista](https://medium.com/huawei-developers/android-ui-testing-made-easy-espresso-vs-barista-ae24a88a7a42), 2022
+* [Robolectric : The Ultimate Testing Framework for Android Developers](https://medium.com/huawei-developers/robolectric-the-ultimate-testing-framework-for-android-developers-10ae1cc8e3c3), 2023
+* [How to Test the Navigation Component in Jetpack Compose?](https://medium.com/huawei-developers/how-to-test-the-navigation-component-in-jetpack-compose-1ab4ccaba761), 2023
+* [Unit Test in Jetpack Compose](https://medium.com/huawei-developers/unit-test-in-jetpack-compose-57c64fd035b7), 2023
+
+</details>
+
+<details>
   <summary>HubSpot</summary>
 
 * [Using CocoaPods to Modularize a Big iOS App](https://product.hubspot.com/blog/architecting-a-large-ios-app-with-cocoapods), 2014
