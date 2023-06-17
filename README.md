@@ -378,7 +378,13 @@
 <details>
   <summary>Grab</summary>
 
+* [Deep Dive into iOS Automation at Grab - Integration Testing](https://engineering.grab.com/deep-dive-into-ios-automation-at-grab-integration-testing), 2019
 * [Marionette - Enabling E2E User-scenario Simulation](https://engineering.grab.com/marionette-enabling-e2e-user-scenario-simulation), 2019
+* [Journey to a Faster Everyday Superapp Where Every Millisecond Counts](https://engineering.grab.com/journey-to-a-faster-everyday-super-app), 2019
+* [Tackling UI Test Execution Time Imbalance for Xcode Parallel Testing](https://engineering.grab.com/tackling-ui-test-execution-time-imbalance-for-xcode-parallel-testing), 2020
+* [How Grab is Blazing Through the Superapp Bazel Migration](https://engineering.grab.com/how-grab-is-blazing-through-the-super-app-bazel-migration), 2020
+* [App Modularisation at Scale](https://engineering.grab.com/app-modularisation-at-scale), 2021
+* [How we improved our iOS CI infrastructure with observability tools](https://engineering.grab.com/iOS-CI-infrastructure-with-observability-tools), 2023
 
 </details>
 
