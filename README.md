@@ -772,6 +772,8 @@
 * [Sample Apps to Achieve 80% Shorter Build Times in Trendyol Android Project](https://medium.com/trendyol-tech/sample-apps-to-achieve-shorter-build-times-in-trendyol-android-project-d664f454a36c), 2023
 * [Revamping Trendyol’s iOS App: A Modularization Success Story](https://medium.com/trendyol-tech/revamping-trendyols-ios-app-a-modularization-success-story-a6c1d2c4188b), 2023
 * [Mock Generator Development With Using Mockolo Library](https://medium.com/trendyol-tech/mock-generator-development-with-using-mockolo-library-c8c273f77d1b), 2023
+* [Trendyol Fulfillment Android Instrumented Test CI](https://medium.com/trendyol-tech/trendyol-fulfillment-android-instrumented-test-ci-b531d83fb37e), 2023
+* [Managing iOS Tests at Scale: A Symphony](https://medium.com/trendyol-tech/managing-ios-tests-on-scale-a-symphony-a644275d0bbc), 2023
 
 </details>
 
