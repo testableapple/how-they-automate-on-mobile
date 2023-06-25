@@ -472,8 +472,20 @@
 <details>
   <summary>LinkedIn</summary>
 
+* [Writing Custom Lint Checks with Gradle](https://engineering.linkedin.com/android/writing-custom-lint-checks-gradle), 2014
+* [Managing iOS Continuous Integration at Enterprise Scale](https://engineering.linkedin.com/blog/2015/12/managing-ios-continuous-integration-at-enterprise-scale), 2015
 * [Mock the Internet](https://www.youtube.com/watch?v=6gPNrujpmn0), 2015
+* [Effective Layout Testing Library for iOS](https://engineering.linkedin.com/blog/2016/01/effective-layout-testing-library-for-ios), 2016
+* [UI Automation: Keep it Functional – and Stable!](https://engineering.linkedin.com/blog/2016/01/ui-automation--keep-it-functional--and-stable-), 2016
+* [3x3: Speeding Up Mobile Releases](https://engineering.linkedin.com/blog/2016/021/3x3--speeding-up-mobile-releases), 2016
+* [3x3: iOS Build Speed and Stability](https://engineering.linkedin.com/blog/2016/04/3x3--ios-build-speed-and-stability), 2016
+* [Upgrade Testing on iOS: Keeping up with 3x3](https://engineering.linkedin.com/blog/2016/04/upgrade-testing-on-ios--keeping-up-with-3x3), 2016
+* [Open Sourcing Test Butler](https://engineering.linkedin.com/blog/2016/08/introducing-and-open-sourcing-test-butler--reliable-android-test), 2016
 * [iOS: Test Pyramid](https://engineering.linkedin.com/blog/2016/11/ios--test-pyramid), 2016
+* [Open Sourcing Dex Test Parser](https://engineering.linkedin.com/blog/2017/02/open-sourcing-dex-test-parser), 2017
+* [Managing documentation at scale](https://engineering.linkedin.com/blog/2019/04/managing-documentation-at-scale), 2019
+* [LinkedIn’s approach to automated accessibility (A11y) testing](https://engineering.linkedin.com/blog/2020/automated-accessibility-testing), 2020
+* [Faster testing on Android with Mobile Test Orchestrator](https://engineering.linkedin.com/blog/2020/mobile-test-orchestrator), 2020
 
 </details>
 
