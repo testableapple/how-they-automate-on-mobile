@@ -490,6 +490,24 @@
 </details>
 
 <details>
+  <summary>Livefront</summary>
+
+* [4 tips for using Carthage](https://medium.com/livefront/4-tips-for-using-carthage-38604f257b54), 2017
+* [How to add a dynamic Swift framework to a Command Line Tool](https://medium.com/livefront/how-to-add-a-dynamic-swift-framework-to-a-command-line-tool-bab6426d6c31), 2018
+* [Swift expected nil, not <nil>](https://medium.com/livefront/swift-expected-nil-not-nil-27ac2eb8505d), 2018
+* [Unit Testing race conditions by creating chaos (Swift)](https://medium.com/livefront/unit-testing-race-conditions-by-creating-chaos-swift-512a55e09806), 2018
+* [Adventures in iOS Dev Automation](https://medium.com/livefront/adventures-in-ios-dev-automation-b18c3abd835a), 2018
+* [The First 2 Commits Every Android Project Should Have](https://medium.com/livefront/the-first-2-commits-every-android-project-should-have-e8a245ac86), 2019
+* [Android Static Code Checks — Keep Your Codebase Tidy With Detekt](https://medium.com/livefront/android-static-code-checks-keep-your-codebase-tidy-with-detekt-408435665fc3), 2020
+* [Dagger Hilt: Testing injected Android components with code coverage](https://medium.com/livefront/dagger-hilt-testing-injected-android-components-with-code-coverage-30089a1f6872), 2020
+* [How to connect your Android emulator to a local web service](https://medium.com/livefront/how-to-connect-your-android-emulator-to-a-local-web-service-47c380bff350), 2021
+* [Five Reasons To Write Unit Tests](https://medium.com/livefront/five-reasons-to-write-unit-tests-e1920f726b33), 2021
+* [Tracking Android project build times](https://medium.com/livefront/tracking-android-project-build-times-8826f9e8e212), 2023
+* [XCTestCase Life Cycle Management](https://medium.com/livefront/xctestcase-life-cycle-management-3f0fdf46d5cd), 2023
+
+</details>
+
+<details>
   <summary>Lyft</summary>
 
 * [Which hardware are you using to run your CI](https://github.com/MobileNativeFoundation/discussions/discussions/23#discussioncomment-426356), 2021
