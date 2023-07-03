@@ -331,8 +331,6 @@
 
 </details>
 
-</details>
-
 <details>
   <summary>GoDaddy</summary>
 
@@ -585,6 +583,14 @@
   <summary>PayPal</summary>
 
 * [Write Once, Test Everywhere — Simplified SDK Testing](https://medium.com/paypal-tech/write-once-test-everywhere-simplified-sdk-testing-6ea11e7d1f27), 2021
+
+</details>
+
+<details>
+  <summary>Picsart</summary>
+
+* [Finding Memory Leaks in Mobile Apps (Part 1: Visualization)](https://medium.com/picsart-engineering/finding-memory-leaks-in-mobile-apps-part-1-visualization-b2e4e342a5c9), 2022
+* [Finding Memory Leaks in Mobile Apps (Part 2: Automation)](https://medium.com/picsart-engineering/finding-memory-leaks-in-mobile-apps-part-2-automation-d2059545b66c), 2023
 
 </details>
 
