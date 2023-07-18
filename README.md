@@ -532,8 +532,15 @@
 * [Super fast and parallelized Android UITest(Appium) environment using AWS, Docker and Android emulator](https://engineering.mercari.com/en/blog/entry/2018-12-28-175147/), 2018
 * [How HeadSpin will change mobile testing and monitoring?](https://engineering.mercari.com/en/blog/entry/2019-02-18-173236/), 2019
 * [Specifying Kotlin tests with Spek](https://engineering.mercari.com/en/blog/entry/2019-12-12-100000/), 2019
+* [Testing Redux-based iOS app](https://engineering.mercari.com/en/blog/entry/2019-12-28-150000/), 2019
+* [Building automated workflow using Slackbot and CircleCI](https://engineering.mercari.com/en/blog/entry/2020-06-25-154358/), 2020
+* [Compiling for iOS on Apple M1](https://engineering.mercari.com/en/blog/entry/20211129-compiling-for-ios-on-apple-m1/), 2021
+* [Bazel Remote Execution for iOS Builds with Apple Silicon](https://engineering.mercari.com/en/blog/entry/20211210-bazel-remote-execution-for-ios-builds-with-apple-silicon/), 2021
 * [Automatically generating snapshot tests from Xcode Previews](https://engineering.mercari.com/en/blog/entry/20201204-1f94b9dca2/), 2022
 * [Android automated testing to support one-week releases](https://engineering.mercari.com/en/blog/entry/20211210-merpay-android-test-automation/), 2022
+* [Leverage Kotlin in your Android CI](https://engineering.mercari.com/en/blog/entry/20221012-leverage-kotlin-in-your-android-ci/), 2022
+* [Fast and reliable iOS builds with Bazel at Mercari](https://engineering.mercari.com/en/blog/entry/20221215-16cdd59909/), 2023
+* [Mercari QA and Compose for Android automation](https://engineering.mercari.com/en/blog/entry/20230620-mercari-qa-and-compose-for-android-automation/), 2023
 
 </details>
 
