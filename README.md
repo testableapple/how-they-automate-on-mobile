@@ -519,6 +519,14 @@
 </details>
 
 <details>
+  <summary>Medium</summary>
+
+* [How We Modularized Medium’s iOS codebase](https://medium.engineering/how-we-modularized-mediums-ios-codebase-8f8f26965c76), 2014
+* [Medium Android Tools](https://medium.engineering/medium-android-tools-f827bb96b8e4), 2015
+
+</details>
+
+<details>
   <summary>Mercari</summary>
 
 * [Super fast and parallelized Android UITest(Appium) environment using AWS, Docker and Android emulator](https://engineering.mercari.com/en/blog/entry/2018-12-28-175147/), 2018
