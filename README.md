@@ -588,6 +588,13 @@
 </details>
 
 <details>
+  <summary>PagerDuty</summary>
+
+* [Improving PagerDuty’s Automated iOS Builds](https://www.pagerduty.com/eng/improving-pagerdutys-automated-ios-builds/), 2017
+
+</details>
+
+<details>
   <summary>Parimatch Tech</summary>
 
 * [PMetrium Native - let's measure the performance of native applications](https://medium.com/parimatch-tech/pmetrium-native-lets-measure-the-performance-of-native-applications-76f2ef2a9244), 2022
