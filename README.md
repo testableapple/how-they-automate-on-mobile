@@ -897,6 +897,14 @@
 
 </details>
 
+<details>
+  <summary>Zenjob</summary>
+
+* [WebdriverIO with Appium: Beyond the perfect scenario](https://medium.com/zenjob-tech-blog/webdriverio-with-appium-beyond-the-perfect-scenario-b534aa70c84e), 2022
+* [Android unit testing at Zenjob](https://medium.com/zenjob-tech-blog/android-unit-testing-at-zenjob-ac6fe86304f1), 2023
+
+</details>
+
 ## Contributors
 
 <a href="https://github.com/testableapple/how-they-automate-on-mobile/graphs/contributors">
