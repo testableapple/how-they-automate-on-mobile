@@ -685,6 +685,7 @@
   <summary>Robinhood</summary>
 
 * [Testing strategy](https://github.com/MobileNativeFoundation/discussions/discussions/6#discussioncomment-421701), 2021
+* [Removing 30% of our iOS crashes](https://newsroom.aboutrobinhood.com/removing-30-of-our-ios-crashes/), 2022
 
 </details>
 
