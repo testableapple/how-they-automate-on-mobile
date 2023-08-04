@@ -631,6 +631,13 @@
 </details>
 
 <details>
+  <summary>Practo</summary>
+
+* [Build distribution automation with Fastlane and Travis CI — iOS](https://medium.com/practo-engineering/build-distribution-automation-with-fastlane-and-travis-ci-ios-f959dff2799f), 2017
+
+</details>
+
+<details>
   <summary>Razorpay</summary>
 
 * [Releasing features with confidence in your mobile app](https://engineering.razorpay.com/releasing-features-with-confidence-in-the-mobile-app-b3abf73d6646), 2022
