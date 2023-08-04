@@ -673,6 +673,15 @@
 </details>
 
 <details>
+  <summary>Riot Games</summary>
+
+* [Revisiting Docker and Jenkins](https://technology.riotgames.com/news/revisiting-docker-and-jenkins), 2018
+* [How Riot Games Uses Slack](https://technology.riotgames.com/news/how-riot-games-uses-slack), 2020
+* [The Legends Of Runeterra CI/CD Pipeline](https://technology.riotgames.com/news/legends-runeterra-cicd-pipeline), 2021
+
+</details>
+
+<details>
   <summary>Robinhood</summary>
 
 * [Testing strategy](https://github.com/MobileNativeFoundation/discussions/discussions/6#discussioncomment-421701), 2021
