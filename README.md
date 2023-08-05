@@ -768,6 +768,7 @@
 * [Herding Elephants](https://developer.squareup.com/blog/herding-elephants/), 2021
 * [Getting Square's iOS build ready for Apple Silicon with Bazel](https://developer.squareup.com/blog/getting-squares-ios-build-ready-for-apple-silicon-with-bazel/), 2022
 * [Stampeding Elephants](https://developer.squareup.com/blog/stampeding-elephants), 2023
+* [Supercharging Continuous Integration with Gradle](https://developer.squareup.com/blog/supercharging-continuous-integration-with-gradle/), 2023
 
 </details>
 
