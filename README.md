@@ -638,6 +638,14 @@
 </details>
 
 <details>
+  <summary>Qonto</summary>
+
+* [How slow are your Android builds?](https://medium.com/qonto-way/how-slow-are-your-android-builds-4b9e2dec092d), 2021
+* [Unleashing the power of efficiency: Dramatic reduction in test build times](https://medium.com/qonto-way/unleashing-the-power-of-efficiency-dramatic-reduction-in-test-build-times-69e218baaeb), 2023
+
+</details>
+
+<details>
   <summary>Razorpay</summary>
 
 * [Releasing features with confidence in your mobile app](https://engineering.razorpay.com/releasing-features-with-confidence-in-the-mobile-app-b3abf73d6646), 2022
