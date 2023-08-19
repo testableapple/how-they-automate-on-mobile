@@ -605,6 +605,7 @@
   <summary>PayPal</summary>
 
 * [Write Once, Test Everywhere — Simplified SDK Testing](https://medium.com/paypal-tech/write-once-test-everywhere-simplified-sdk-testing-6ea11e7d1f27), 2021
+* [Continuous Shift-Left Automated Testing in Native Mobile Apps](https://www.youtube.com/watch?v=TSkfc6EWop0), 2023
 
 </details>
 
