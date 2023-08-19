@@ -711,12 +711,16 @@
 <details>
   <summary>Shopify</summary>
 
+* [Introducing the Super Debugger: A Wireless, Real-Time Debugger for iOS Apps](https://shopify.engineering/introducing-the-super-debugger-a-wireless-real-time-debugger-for-ios-apps), 2013
+* [Building a Dynamic Mobile CI System](https://shopify.engineering/building-a-dynamic-mobile-ci-system), 2017
+* [Scaling iOS CI with Anka](https://shopify.engineering/scaling-ios-ci-with-anka), 2018
 * [Mobile Tophatting at Shopify](https://shopify.engineering/mobile-tophatting-at-shopify-1), 2019
 * [iOS Application Testing strategy at Shopify](https://shopify.engineering/ios-application-testing-strategies-at-shopify), 2019
 * [The Unreasonable Effectiveness of Test Retries: An Android Monorepo Case Study](https://shopify.engineering/unreasonable-effectiveness-test-retries-android-monorepo-case-study), 2019
 * [Mobile Release Engineering at Scale with Shipit Mobile](https://shopify.engineering/mobile-release-engineering-scale-shipit-mobile), 2019
 * [Release process](https://github.com/MobileNativeFoundation/discussions/discussions/67#discussion-3277611), 2021
 * [Testing strategy](https://github.com/MobileNativeFoundation/discussions/discussions/6#discussioncomment-423251), 2021
+* [Reusing Code with React Native Packages at Shopify](https://shopify.engineering/react-native-packages-shopify), 2021
 
 </details>
 
