@@ -725,6 +725,14 @@
 </details>
 
 <details>
+  <summary>Showmax</summary>
+
+* [Automated Memory Leak Testing on iOS](https://showmax.engineering/articles/automated-memory-leak-testing-on-ios), 2019
+* [Consistent Ruby environment for iOS development](https://showmax.engineering/articles/consistent-ruby-environment-for-ios-development), 2019
+
+</details>
+
+<details>
   <summary>Slack</summary>
 
 * [Valera Zakharov: Testing](https://www.youtube.com/watch?v=fySCosLQQws), 2017
