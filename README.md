@@ -821,6 +821,14 @@
 </details>
 
 <details>
+  <summary>Stitch Fix</summary>
+
+* [iOS Code Signing](https://multithreaded.stitchfix.com/blog/2015/11/09/ios-code-signing-part-1/), 2015 (series of articles)
+* [Continuous Integration and Deployment for iOS](https://multithreaded.stitchfix.com/blog/2016/10/31/continuous-integration-and-deployment-for-ios/), 2016
+
+</details>
+
+<details>
   <summary>Swiggy</summary>
 
 * [Gradle Incremental Test Runner](https://bytes.swiggy.com/gradle-incremental-test-runner-125cee1e68a7), 2022
