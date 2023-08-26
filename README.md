@@ -770,11 +770,15 @@
 <details>
   <summary>Spotify</summary>
 
+* [Shaving off 50% waiting time from the iOS Edit-Build-Test cycle](https://engineering.atspotify.com/2013/11/shaving-off-time-from-the-ios-edit-build-test-cycle/), 2013
 * [Protect Your Baby! How Spotify Does Testing for Mobile](https://www.youtube.com/watch?v=69Ea4WyFNyQ), 2015
 * [Scaling Android Application Testing at Spotify](https://www.youtube.com/watch?v=Br7yPblkQnI), 2017
 * [How We Gave Superpowers to Our macOS CI](https://engineering.atspotify.com/2020/05/how-we-gave-superpowers-to-our-macos-ci/), 2020
 * [Which hardware are you using to run your CI](https://github.com/MobileNativeFoundation/discussions/discussions/23#discussioncomment-424955), 2021
 * [Testing strategy](https://github.com/MobileNativeFoundation/discussions/discussions/6#discussioncomment-420317), 2021
+* [Introducing XCMetrics: Our All-in-One Tool for Tracking Xcode Build Metrics](https://engineering.atspotify.com/2021/01/introducing-xcmetrics-our-all-in-one-tool-for-tracking-xcode-build-metrics/), 2021
+* [Introducing XCRemoteCache: The iOS Remote Caching Tool that Cut Our Clean Build Times by 70%](https://engineering.atspotify.com/2021/11/introducing-xcremotecache-the-ios-remote-caching-tool-that-cut-our-clean-build-times-by-70/), 2021
+* [Introducing Ruler: Our Tool for Measuring Android App Size](https://engineering.atspotify.com/2022/02/introducing-ruler-our-tool-for-measuring-android-app-size/), 2022
 
 </details>
 
