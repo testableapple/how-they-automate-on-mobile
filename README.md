@@ -807,6 +807,8 @@
 <details>
   <summary>Strava</summary>
 
+* [Managing Internal iOS Dependencies with Private CocoaPods](https://medium.com/strava-engineering/managing-internal-ios-dependencies-with-private-cocoapods-862c0e0e64ac), 2017
+* [Optimizing Testing For Server Driven Mobile Development at Strava](https://medium.com/strava-engineering/optimizing-testing-for-server-driven-mobile-development-at-strava-525b7473e4fe), 2018
 * [Release process](https://github.com/MobileNativeFoundation/discussions/discussions/67#discussioncomment-494123), 2021
 
 </details>
