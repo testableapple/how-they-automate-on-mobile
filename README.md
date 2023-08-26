@@ -753,10 +753,17 @@
   <summary>SoundCloud</summary>
 
 * [Continuous Integration at SoundCloud](https://www.youtube.com/watch?v=cJS08Kuu3zg), 2015
+* [Leveraging frameworks to speed up our development on iOS](https://developers.soundcloud.com/blog/leveraging-frameworks-to-speed-up-our-development-on-ios-part-1), 2017
 * [Automatic Stubbing of Network Requests to Deflakify Automation Testing](https://developers.soundcloud.com/blog/automatic-stubbing-of-network-requests-to-de-flakify-automation-testing), 2018
 * [Integration Testing for Memory Leaks](https://developers.soundcloud.com/blog/integration-testing-for-memory-leaks), 2018
 * [Running Android UI Test Suites on Firebase Test Lab](https://developers.soundcloud.com/blog/running-android-ui-test-suites-on-firebase-test-lab), 2018
 * [Release Quality and Mobile Trains](https://developers.soundcloud.com/blog/quality-mobile-trains), 2019
+* [Gradle Remote Build Cache Misses](https://developers.soundcloud.com/blog/gradle-remote-build-cache-misses), 2019
+* [Solving Remote Build Cache Misses by Annoying Your Colleagues](https://developers.soundcloud.com/blog/gradle-remote-build-cache-misses-part-2), 2019
+* [Speeding Up Builds with Dagger Reflect](https://developers.soundcloud.com/blog/dagger-reflect), 2020
+* [The Magic of Generating an Xcode Project](https://developers.soundcloud.com/blog/tuist-project-generation), 2020
+* [Breaking Loose from Third-Party Lock-In with Custom Refactoring Tools](https://developers.soundcloud.com/blog/breaking-loose-from-third-party-lock-in-with-custom-refactoring-tools), 2020
+* [Tests Under the Magnifying Lens](https://developers.soundcloud.com/blog/tests-under-the-magnifying-lens), 2021
 
 </details>
 
