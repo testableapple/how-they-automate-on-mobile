@@ -944,6 +944,14 @@
 </details>
 
 <details>
+  <summary>Whatnot</summary>
+
+* [Creating a Lane of Our Own for iOS Automation](https://medium.com/whatnot-engineering/creating-a-lane-of-our-own-for-ios-automation-c9caa31fb800), 2022
+* [Migrating iOS GitHub Actions to Self-Hosted M1 Mac Runners](https://medium.com/whatnot-engineering/migrating-ios-github-actions-to-self-hosted-m1-macs-runners-f75fbb00ab1b), 2023
+
+</details>
+
+<details>
   <summary>Wix</summary>
 
 * [Detox: Graybox End to End Tests and Automation Library for Mobile Apps](https://www.youtube.com/watch?v=qiRJT5Eig3g), 2017
