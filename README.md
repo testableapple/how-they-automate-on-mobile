@@ -387,6 +387,14 @@
 </details>
 
 <details>
+  <summary>Gravel</summary>
+
+* [Send gitlab notification to google chat in 3 minutes](https://medium.com/gravel-engineering/send-gitlab-notification-to-google-chat-in-3-minutes-f81f6a92ac3a), 2023
+* [Manage iOS Versioning for Release with Fastlane](https://medium.com/gravel-engineering/manage-ios-versioning-for-release-with-fastlane-d660cc750abc), 2023
+
+</details>
+
+<details>
   <summary>Halodoc</summary>
 
 * [Testing strategy](https://github.com/MobileNativeFoundation/discussions/discussions/6#discussioncomment-702249), 2021
