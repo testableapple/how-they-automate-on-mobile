@@ -903,6 +903,7 @@
 * [Trendyol Fulfillment Android Instrumented Test CI](https://medium.com/trendyol-tech/trendyol-fulfillment-android-instrumented-test-ci-b531d83fb37e), 2023
 * [Managing iOS Tests at Scale: A Symphony](https://medium.com/trendyol-tech/managing-ios-tests-on-scale-a-symphony-a644275d0bbc), 2023
 * [Android Test Doubles In Unit Test](https://medium.com/trendyol-tech/android-test-doubles-in-unit-test-bfcb26d3dc3f), 2023
+* [Trendyol and Tuist: Engineering Apps at Scale](https://tuist.io/blog/2023/09/08/trendyol-and-tuist/), 2023
 
 </details>
 
