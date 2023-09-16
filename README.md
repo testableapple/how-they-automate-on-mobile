@@ -241,6 +241,15 @@
 </details>
 
 <details>
+  <summary>eDreams ODIGEO</summary>
+
+* [Creating a Post-commit hook with Swiftlint Autocorrect](https://medium.com/edreams-odigeo-tech/creating-a-post-commit-hook-with-swiftlint-autocorrect-5695baf9cad7), 2020
+* [Keep those warnings away! — Add Android Lint to your CI pipeline](https://medium.com/edreams-odigeo-tech/keep-those-warnings-away-add-android-lint-to-your-ci-pipeline-28418294df5f), 2021
+* [Tuist Your Circle](https://medium.com/edreams-odigeo-tech/tuist-your-circle-putting-it-to-the-test-part-1-8dc168aefe7a), 2023 (series of articles)
+
+</details>
+
+<details>
   <summary>Etsy</summary>
 
 * [Etsy's Device Lab](https://www.etsy.com/codeascraft/mobile-device-lab/), 2013
