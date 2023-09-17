@@ -544,6 +544,14 @@
 </details>
 
 <details>
+  <summary>Mercadona Tech</summary>
+
+* [Reduce iOS CI time using test parallelization](https://medium.com/mercadona-tech/reduce-ios-ci-time-using-test-parallelization-de949a80fc5f), 2022
+* [Contract Tests: A New Hope](https://medium.com/mercadona-tech/contract-tests-a-new-hope-e2df7470e118), 2023
+
+</details>
+
+<details>
   <summary>Mercari</summary>
 
 * [Super fast and parallelized Android UITest(Appium) environment using AWS, Docker and Android emulator](https://engineering.mercari.com/en/blog/entry/2018-12-28-175147/), 2018
