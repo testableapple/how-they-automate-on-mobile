@@ -910,6 +910,21 @@
 </details>
 
 <details>
+  <summary>Toptal</summary>
+
+* [Automated Android Crash Reports with ACRA and Cloudant](https://www.toptal.com/android/automated-android-crash-reports-with-acra-and-cloudant), 2014
+* [Android Testing Tutorial: Unit Testing Like a True Green Droid](https://www.toptal.com/android/testing-like-a-true-green-droid), 2015
+* [Fastlane: iOS Automation on Cruise Control](https://www.toptal.com/ios/fastlane-ios-automation), 2017
+* [Android DDMS: A Guide to the Ultimate Android Console](https://www.toptal.com/android/android-ddms-ultimate-power-console), 2017
+* [How to Write Automated Tests for iOS](https://www.toptal.com/ios/how-to-write-automated-tests-for-ios), 2017
+* [iOS Continuous Integration with Xcode Server Explained](https://www.toptal.com/xcode/ios-continuous-integration-xcode-server), 2018
+* [A Splash of EarlGrey: UI Testing the Toptal Talent App](https://www.toptal.com/ios/google-earlgrey-testing-guide), 2020
+* [Investing in Unit Testing: Benefits and Approaches](https://www.toptal.com/unit-testing/unit-testing-benefits), 2022
+* [Unit Testing in Flutter: From Workflow Essentials to Complex Scenarios](https://www.toptal.com/flutter/unit-testing-flutter), 2022
+
+</details>
+
+<details>
   <summary>Trendyol</summary>
 
 * [Get the Most Out of UI Tests With XCode Test Plans](https://medium.com/trendyol-tech/get-the-most-out-of-ui-tests-with-xcode-test-plans-d089a2252ba2), 2020
