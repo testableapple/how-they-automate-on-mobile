@@ -878,6 +878,18 @@
 </details>
 
 <details>
+  <summary>Thoughtworks</summary>
+
+* [Simplify Your Mobile Testing on iOS and Android](https://www.thoughtworks.com/insights/blog/testing-android-and-ios-apps-twist), 2014
+* [Building Better Behavior Tests for Mobile Apps](https://www.thoughtworks.com/insights/blog/building-better-behavior-tests-mobile-apps), 2014
+* [Speeding up Test Execution with Appium](https://www.thoughtworks.com/insights/blog/speeding-test-execution-appium), 2016
+* [Automating semantic versioning model in mobile releases](https://www.thoughtworks.com/insights/blog/automating-semantic-versioning-model-mobile-releases), 2020
+* [How to release mobile apps weekly](https://www.thoughtworks.com/insights/blog/mobile/release-mobile-apps-weekly), 2022
+* [Scaling mobile delivery](https://www.thoughtworks.com/insights/podcasts/technology-podcasts/scaling-mobile-delivery), 2023
+
+</details>
+
+<details>
   <summary>Tokopedia</summary>
 
 * [How We Solve The Sideloading Crash After App Bundle Implementation](https://medium.com/tokopedia-engineering/how-we-solve-the-sideloading-crash-after-app-bundle-implementation-40094721b525), 2019
