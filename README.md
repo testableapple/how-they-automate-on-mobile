@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
+  <a href="https://testableapple.com/subscribe/"><img src="https://img.shields.io/badge/stay-tuned-blue?style=flat" /></a>
   <a href="http://makeapullrequest.com"><img src="https://img.shields.io/badge/contributions-welcome-green.svg?style=flat" /></a>
-  <a href="https://testableapple.com/newsletter"><img src="https://img.shields.io/badge/subscribe%20to-mobile%20automation%20newsletter-blue?style=flat" /></a>
 </p>
 
 ## Kind of topics here
@@ -856,7 +856,10 @@
 <details>
   <summary>Swiggy</summary>
 
+* [Advanced techniques to speed up the compile time in Xcode](https://bytes.swiggy.com/advanced-techniques-to-speed-up-the-compile-time-in-xcode-27819cb3be59), 2019
+* [Detecting App Cloning & Location Spoofing on Android](https://bytes.swiggy.com/detecting-app-cloning-location-spoofing-on-android-452dd420f390), 2021
 * [Gradle Incremental Test Runner](https://bytes.swiggy.com/gradle-incremental-test-runner-125cee1e68a7), 2022
+* [Build Time Optimizations (Xcode)](https://bytes.swiggy.com/build-time-optimizations-xcode-911c9c3ac8ff), 2022
 
 </details>
 
