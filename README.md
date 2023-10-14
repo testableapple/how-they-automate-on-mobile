@@ -981,6 +981,10 @@
 * [The Uber Challenge of Cross-Application/Cross-Device Testing](https://www.youtube.com/watch?v=p6gsssppeT0), 2015
 * [Octopus to the Rescue: the Fascinating World of Inter-App Communications at Uber Engineering](https://www.uber.com/en-IE/blog/rescued-by-octopus/), 2015
 * [Using the Octopus Framework](https://www.youtube.com/watch?v=80wc8gWebrk), 2016
+* [Harnessing Code Generation to Increase Reliability & Productivity on iOS at Uber](https://www.uber.com/en-IE/blog/code-generation), 2018
+* [Scaling Mobile Device Management for macOS with Chef at Uber](https://www.uber.com/en-IE/blog/scaling-mobile-device-management-at-uber), 2019
+* [Measuring Kotlin Build Performance at Uber](https://www.uber.com/en-IE/blog/measuring-kotlin-build-performance), 2019
+* [Introducing Uber Poet, an Open Source Mock App Generator for Determining Faster Swift Builds](https://www.uber.com/en-IE/blog/uber-poet), 2019
 * [Testing strategy](https://github.com/MobileNativeFoundation/discussions/discussions/6#discussioncomment-421035), 2020
 * [Measuring Performance for iOS Apps at Uber Scale](https://www.uber.com/en-US/blog/measuring-performance-for-ios-apps-at-uber-scale/), 2023
 
