@@ -890,6 +890,16 @@
 </details>
 
 <details>
+  <summary>Thumbtack</summary>
+
+* [Adopting Swift: Migrating to Frameworks on iOS](https://medium.com/thumbtack-engineering/adopting-swift-migrating-to-frameworks-on-ios-797b3c25016a), 2016
+* [Targeted Code Coverage Reports for Android Continuous Builds](https://medium.com/thumbtack-engineering/targeted-code-coverage-reports-for-android-continuous-builds-d29a156e7071), 2019
+* [Using Android Screenshot Tests to Verify View Correctness](https://medium.com/thumbtack-engineering/using-android-screenshot-tests-to-verify-view-correctness-74aaef74f17d), 2020
+* [Automating Integration Tests to Ensure Android App Quality](https://medium.com/thumbtack-engineering/automating-integration-tests-to-ensure-android-app-quality-a7012862a6ff), 2021
+
+</details>
+
+<details>
   <summary>Tokopedia</summary>
 
 * [How We Solve The Sideloading Crash After App Bundle Implementation](https://medium.com/tokopedia-engineering/how-we-solve-the-sideloading-crash-after-app-bundle-implementation-40094721b525), 2019
