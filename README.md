@@ -551,6 +551,13 @@
 </details>
 
 <details>
+  <summary>Meero</summary>
+
+* [Kickstarting Mobile Testing: A Journey with Appium and TypeScript](https://medium.com/@romain.mouillard.fr/kickstarting-mobile-testing-a-journey-with-appium-and-typescript-89b62d311069), 2023
+
+</details>
+
+<details>
   <summary>Mercadona Tech</summary>
 
 * [Reduce iOS CI time using test parallelization](https://medium.com/mercadona-tech/reduce-ios-ci-time-using-test-parallelization-de949a80fc5f), 2022
