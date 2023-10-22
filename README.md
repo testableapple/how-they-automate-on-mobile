@@ -1014,6 +1014,14 @@
 </details>
 
 <details>
+  <summary>Wayfair</summary>
+
+* [Open Tracing for iOS: A Performance Tool for Everyone](https://www.aboutwayfair.com/tech-innovation/open-tracing-for-ios-a-performance-tool-for-everyone), 2019
+* [Getting The Most Out of XML and Exploring Anko Layouts for Android](https://www.aboutwayfair.com/tech-innovation/getting-the-most-out-of-xml-and-exploring-anko-layouts-for-android), 2019
+
+</details>
+
+<details>
   <summary>WeTransfer</summary>
 
 * [Inside WeTransfer’s App Testing Process with Antoine van der Lee](https://semaphoreci.com/blog/inside-wetransfer-testing-process), 2019
