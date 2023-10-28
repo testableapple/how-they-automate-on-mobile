@@ -302,6 +302,7 @@
 * [MobileLab: Highly accurate testing to prevent mobile performance regressions](https://engineering.fb.com/2018/10/19/android/mobilelab/), 2018
 * [Superpack: Pushing the limits of compression in Facebook’s mobile apps](https://engineering.fb.com/2021/09/13/core-data/superpack/), 2021
 * [Open-sourcing Mariana Trench: Analyzing Android and Java app security in depth](https://engineering.fb.com/2021/09/29/security/mariana-trench/), 2021
+* [How WhatsApp tests software?](https://automationhacks.io/2023-10-18-how-whatsapp-tests-software), 2023
 
 </details>
 
