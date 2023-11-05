@@ -820,6 +820,7 @@
 * [Introducing XCMetrics: Our All-in-One Tool for Tracking Xcode Build Metrics](https://engineering.atspotify.com/2021/01/introducing-xcmetrics-our-all-in-one-tool-for-tracking-xcode-build-metrics/), 2021
 * [Introducing XCRemoteCache: The iOS Remote Caching Tool that Cut Our Clean Build Times by 70%](https://engineering.atspotify.com/2021/11/introducing-xcremotecache-the-ios-remote-caching-tool-that-cut-our-clean-build-times-by-70/), 2021
 * [Introducing Ruler: Our Tool for Measuring Android App Size](https://engineering.atspotify.com/2022/02/introducing-ruler-our-tool-for-measuring-android-app-size/), 2022
+* [Switching Build Systems, Seamlessly](https://engineering.atspotify.com/2023/10/switching-build-systems-seamlessly), 2023
 
 </details>
 
