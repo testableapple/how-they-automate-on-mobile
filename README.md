@@ -257,6 +257,15 @@
 </details>
 
 <details>
+  <summary>Entri</summary>
+
+* [Device Wall — Unlocking the Power of Parallel Mobile Automation with Appium, and Raspberry Pi](https://medium.com/@engenious.io/xcode-parallel-test-execution-of-xcutest-is-joke-but-i-found-a-scalable-and-solid-solution-031aaaa92814), 2023
+* [Mastering Local Continuous Integration/Continuous Deployment](https://epd-blog.entri.team/mastering-local-continuous-integration-continuous-deployment-7504c2e148ac), 2023
+* [Mastering Event Validation in Android Apps: A QA Engineer’s Guide](https://epd-blog.entri.team/mastering-event-validation-in-android-apps-a-qa-engineers-guide-8b4250e3b730), 2023
+
+</details>
+
+<details>
   <summary>Etsy</summary>
 
 * [Etsy's Device Lab](https://www.etsy.com/codeascraft/mobile-device-lab/), 2013
