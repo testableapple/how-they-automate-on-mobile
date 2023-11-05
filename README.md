@@ -563,6 +563,7 @@
 
 * [Reduce iOS CI time using test parallelization](https://medium.com/mercadona-tech/reduce-ios-ci-time-using-test-parallelization-de949a80fc5f), 2022
 * [Contract Tests: A New Hope](https://medium.com/mercadona-tech/contract-tests-a-new-hope-e2df7470e118), 2023
+* [How to write less code in tests](https://medium.com/mercadona-tech/how-to-write-less-code-in-tests-a5f8d556194e), 2023
 
 </details>
 
