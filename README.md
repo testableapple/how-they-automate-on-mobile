@@ -95,6 +95,14 @@
 </details>
 
 <details>
+  <summary>AutoScout24</summary>
+
+* [Optimise battery usage of Android Applications](https://tech.autoscout24.com/blog/posts/optimise-battery-usage-of-android-applications/), 2023
+* [Xcode Build Time Optimization](https://tech.autoscout24.com/blog/posts/xcode-build-time-optimization/), 2023
+
+</details>
+
+<details>
   <summary>Avito</summary>
 
 * [Open source: CI/CD and test infrastructure for Android](https://avito-tech.github.io/avito-android/blog/2019/12/open-source-introduction/), 2019
