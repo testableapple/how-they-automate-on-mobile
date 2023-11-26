@@ -1017,6 +1017,13 @@
 </details>
 
 <details>
+  <summary>UPMC Enterprises</summary>
+
+* [Running our Android Espresso tests in Parallel](https://rlukasik.medium.com/running-our-android-espresso-tests-in-parallel-2c13ef9231f7), 2023
+
+</details>
+
+<details>
   <summary>Walmart</summary>
 
 * [iOS Test Automation @WalmartLabs](https://medium.com/walmartglobaltech/ios-test-automation-walmartlabs-d8668d85a27), 2017
