@@ -718,6 +718,13 @@
 </details>
 
 <details>
+  <summary>Primer</summary>
+
+* [Improving the Android Experience at Primer: Our Journey from Koin to a Custom Dependency Injection Framework](https://medium.com/@primer-engineering-blog/improving-the-android-experience-at-primer-our-journey-from-koin-to-a-custom-dependency-injection-6be50d4c7160), 2023
+
+</details>
+
+<details>
   <summary>Qonto</summary>
 
 * [How slow are your Android builds?](https://medium.com/qonto-way/how-slow-are-your-android-builds-4b9e2dec092d), 2021
