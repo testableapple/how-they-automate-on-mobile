@@ -366,6 +366,16 @@
 </details>
 
 <details>
+  <summary>Glovo</summary>
+
+* [Publishing a variant-aware Android library with its sources](https://medium.com/glovo-engineering/publishing-a-variant-aware-android-library-with-its-sources-c61387323963), 2021
+* [Linting and formatting Swift code in our apps](https://medium.com/glovo-engineering/linting-and-formatting-swift-code-in-our-apps-a49dc0a52332), 2021
+* [Accelerate Your Android Development: Top Techniques to Reduce Gradle Build Time](https://medium.com/glovo-engineering/accelerate-your-android-development-top-techniques-to-reduce-gradle-build-time-part-i-of-ii-4f35aa4a1a17), 2023
+* [Glovo’s Large-Scale App Development: An In-Depth Look](https://tuist.io/blog/2023/11/03/glovo), 2023
+
+</details>
+
+<details>
   <summary>GoDaddy</summary>
 
 * [React Native Application UI testing using WebDriverIO and Appium](https://www.godaddy.com/engineering/2018/07/09/react-native-wdio/), 2018
