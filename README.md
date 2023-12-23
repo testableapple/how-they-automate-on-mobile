@@ -839,6 +839,17 @@
 </details>
 
 <details>
+  <summary>Skyscanner</summary>
+
+* [The present and future of app release at Skyscanner](https://medium.com/@SkyscannerEng/the-present-and-future-of-app-release-at-skyscanner-b393c88972a8), 2016
+* [3 Techniques We Used to Improve Skyscanner for iOS Performance](https://medium.com/@SkyscannerEng/3-techniques-we-used-to-improve-skyscanner-for-ios-performance-65325c96491d), 2016
+* [Testing React Native iOS Bridges](https://medium.com/@SkyscannerEng/testing-react-native-ios-bridges-80c730659a83), 2017
+* [iOS CI, supercharged](https://medium.com/@SkyscannerEng/ios-ci-supercharged-2c1c206f9325), 2019
+* [Hate to wait: how Skyscanner used module caching to cut iOS app build speed in half](https://medium.com/@SkyscannerEng/hate-to-wait-how-skyscanner-used-module-caching-to-cut-app-build-speed-in-half-e906da1c077e), 2019
+
+</details>
+
+<details>
   <summary>Slack</summary>
 
 * [Valera Zakharov: Testing](https://www.youtube.com/watch?v=fySCosLQQws), 2017
