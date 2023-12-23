@@ -648,6 +648,16 @@
 </details>
 
 <details>
+  <summary>Monzo</summary>
+
+* [How We Build the Monzo App](https://monzo.com/blog/2018/03/02/app-development), 2018
+* [How everyone at Monzo gets involved with testing](https://monzo.com/blog/2022/04/12/how-anyone-at-monzo-can-test), 2022
+* [How our Android engineers automated the removal of Kotlin synthetics](https://monzo.com/blog/2022/04/20/how-our-android-engineers-automated-the-removal-of-kotlin-synthetics), 2022
+* [Our mobile release process: An illustrated story](https://monzo.com/blog/2022/06/23/our-mobile-release-process-an-illustrated-story), 2022
+
+</details>
+
+<details>
   <summary>NatWest</summary>
 
 * [Testing strategy](https://github.com/MobileNativeFoundation/discussions/discussions/6#discussioncomment-4646182), 2022
