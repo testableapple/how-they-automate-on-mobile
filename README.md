@@ -210,6 +210,16 @@
 </details>
 
 <details>
+  <summary>Dodo Pizza</summary>
+
+* [QA Mobile Technology Radar](https://radar.thoughtworks.com/?documentId=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2Fe%2F2PACX-1vRhhv36dMgQWyL24qt9NTmoh3guKjGUK9AawBw85N_MOe1trvSmZQeU99QJglm1Do__Lac8cEYzItnI%2Fpub%3Foutput%3Dcsv%26format%3D%2FDodo+Engineering+-+QA+mobile+-+2023.csv), 2023
+* [iOS Technology Radar](https://radar.thoughtworks.com/?documentId=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2Fe%2F2PACX-1vSNCJEF7o6lYiu7z9WIdLqEyyoW6V94_50wyK5AWP9uW0oA3w4jKaU__jy3fyhOeGdZI2yiSL6VwjL3%2Fpub%3Fgid%3D0%26single%3Dtrue%26output%3Dcsv%26format%3D%2FDodo+Engineering+-+Dodo+Pizza+iOS+-+March+2023.csv), 2023
+* [Android Technology Radar](https://radar.thoughtworks.com/?documentId=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2Fe%2F2PACX-1vRIJRCLRWKilMgx5rypHoCwGlUOpB79v4-oPPdSvNNSPkkgVao2uja2O4j1eEWqeUn34Ri0rzaNgut3%2Fpub%3Fgid%3D892813566%26single%3Dtrue%26output%3Dcsv%26format%3D%2FDodo+Engineering+Android.csv), 2023
+* [Release Train in mobile development](https://proandroiddev.com/release-train-in-mobile-development-4c67954ab1b3), 2023
+
+</details>
+
+<details>
   <summary>DoorDash</summary>
 
 * [Why We Use KIF-Quick for User Interface Tests](https://doordash.engineering/2016/12/26/why-we-use-kif-quick-for-user-interface-tests/), 2016
