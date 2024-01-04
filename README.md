@@ -508,6 +508,14 @@
 </details>
 
 <details>
+  <summary>Just Eat Takeaway.com</summary>
+
+* [Backend-Driven UI on Native iOS apps](https://medium.com/justeattakeaway-tech/backend-driven-ui-on-native-ios-apps-613c3e8c579f), 2023
+* [Scalable Continuous Integration for iOS](https://medium.com/justeattakeaway-tech/scalable-continuous-integration-for-ios-15ff33435992), 2024
+
+</details>
+
+<details>
   <summary>Karumi</summary>
 
 * [Testing strategy](https://github.com/MobileNativeFoundation/discussions/discussions/6#discussioncomment-463433), 2021
