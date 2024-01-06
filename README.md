@@ -1063,6 +1063,7 @@
 * [Managing iOS Tests at Scale: A Symphony](https://medium.com/trendyol-tech/managing-ios-tests-on-scale-a-symphony-a644275d0bbc), 2023
 * [Android Test Doubles In Unit Test](https://medium.com/trendyol-tech/android-test-doubles-in-unit-test-bfcb26d3dc3f), 2023
 * [Trendyol and Tuist: Engineering Apps at Scale](https://tuist.io/blog/2023/09/08/trendyol-and-tuist/), 2023
+* [How Do We Manage UI Tests in Sprint](https://medium.com/trendyol-tech/how-do-we-manage-ui-tests-in-sprint-a0fbef977a38), 2023
 
 </details>
 
