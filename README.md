@@ -1101,6 +1101,13 @@
 </details>
 
 <details>
+  <summary>VoucherCodes</summary>
+
+* [Creating an automated test framework for React Native apps](https://medium.com/vouchercodes-tech/creating-an-automated-test-framework-for-react-native-apps-8cd2136348ca), 2023
+
+</details>
+
+<details>
   <summary>Walmart</summary>
 
 * [iOS Test Automation @WalmartLabs](https://medium.com/walmartglobaltech/ios-test-automation-walmartlabs-d8668d85a27), 2017
