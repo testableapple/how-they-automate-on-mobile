@@ -99,6 +99,7 @@
 
 * [Optimise battery usage of Android Applications](https://tech.autoscout24.com/blog/posts/optimise-battery-usage-of-android-applications/), 2023
 * [Xcode Build Time Optimization](https://tech.autoscout24.com/blog/posts/xcode-build-time-optimization/), 2023
+* [iOS UI Testing with Deep Links](https://tech.autoscout24.com/blog/posts/ios-uitest-deeplink/), 2023
 
 </details>
 
