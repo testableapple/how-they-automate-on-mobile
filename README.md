@@ -1145,8 +1145,12 @@
 <details>
   <summary>Wix</summary>
 
+* [End-to-End TDDing an iOS Application](https://www.wix.engineering/post/end-to-end-tdding-an-ios-application), 2014
 * [Detox: Graybox End to End Tests and Automation Library for Mobile Apps](https://www.youtube.com/watch?v=qiRJT5Eig3g), 2017
-* [Detox: tackling the flakiness of mobile automation](https://www.youtube.com/watch?v=4rU0IGEt6OQ), 2019
+* [Detox: Tackling the flakiness of mobile automation](https://www.youtube.com/watch?v=4rU0IGEt6OQ), 2019
+* [Mobile at Scale with React Native](https://www.youtube.com/watch?v=AT-IYfo59SM), 2019
+* [Testing Mobile Applications Using Mock Data](https://www.youtube.com/watch?v=dRwNUhWThK4), 2021
+* [Mastering Mobile App Testing: Strategies and Challenges in QA](https://www.youtube.com/watch?v=o3Xtwtdsgx8), 2023
 
 </details>
 
