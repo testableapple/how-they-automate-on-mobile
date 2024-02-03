@@ -1087,6 +1087,7 @@
 * [Would Xcode Cloud replace our current CI/CD solution?](https://medium.com/turo-engineering/would-xcode-cloud-replace-our-current-ci-cd-solution-fd373773fe17), 2021
 * [Improving our CI/CD with GitHub Actions](https://medium.com/turo-engineering/improving-our-ci-cd-with-github-actions-4156a8e143aa), 2022
 * [How we reduced our Android startup time by 77%](https://medium.com/turo-engineering/how-we-reduced-our-android-startup-time-by-77-650cc113c3dc), 2023
+* [Boosting Bazel Adoption on Android With Automation](https://medium.com/turo-engineering/boosting-bazel-adoption-on-android-with-automation-6dc79d298628), 2023
 
 </details>
 
