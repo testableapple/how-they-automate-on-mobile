@@ -144,6 +144,15 @@
 </details>
 
 <details>
+  <summary>Bilue</summary>
+
+* [How to version your app in a continuous development world](https://medium.com/bilue/how-to-version-your-app-in-a-continuous-development-world-b4f23c2beab3), 2021
+* [Caring for your dependency garden: An approach to Android Dependency Management](https://medium.com/bilue/caring-for-your-dependency-garden-c36e3ae288bd), 2022 (series of articles)
+* [Elevating UI Automation: Testing Compose Animations Beyond Appium’s Reach](https://medium.com/bilue/elevating-ui-automation-e1ae0140e257), 2024
+
+</details>
+
+<details>
   <summary>BlaBlaCar</summary>
 
 * [4 tips to master XCTestExpectation](https://medium.com/blablacar/4-tips-to-master-xctestexpectation-aee2b2631d93), 2017
