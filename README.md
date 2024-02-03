@@ -45,6 +45,7 @@
 * [Airbnb’s Page Performance Score on Android](https://medium.com/airbnb-engineering/airbnbs-page-performance-score-on-android-f9fd5e733e), 2021
 * [Automated UI Infrastructure in Jetpack Compose using KSP](https://www.youtube.com/watch?v=9fVoqEFWTNI), 2023
 * [Flexible Continuous Integration for iOS](https://medium.com/airbnb-engineering/flexible-continuous-integration-for-ios-4ab33ea4072f), 2023
+* [Migrating Our iOS Build System from Buck to Bazel](https://medium.com/airbnb-engineering/migrating-our-ios-build-system-from-buck-to-bazel-ddd6f3f25aa3 ), 2024
 
 </details>
 
