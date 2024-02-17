@@ -806,6 +806,7 @@
 * [Optimizing the Android CI Pipeline with AffectedModuleDetector](https://www.reddit.com/r/RedditEng/comments/tqdoql/optimizing_the_android_ci_pipeline_with), 2022
 * [Reddit’s E2E UI Automation Framework for Android](https://reddit.com/r/RedditEng/comments/11x5iwv/reddits_e2e_ui_automation_framework_for_android), 2023
 * [iOS: UI Testing Strategy and Tooling](https://www.reddit.com/r/RedditEng/comments/14gd9gc/ios_ui_testing_strategy_and_tooling/), 2023
+* [From Fragile to Agile: Automating the fight against Flaky Tests](https://www.reddit.com/r/RedditEng/comments/1ap4axo/from_fragile_to_agile_automating_the_fight/), 2024
 
 </details>
 
