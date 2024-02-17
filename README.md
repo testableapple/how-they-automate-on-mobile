@@ -627,6 +627,18 @@
 </details>
 
 <details>
+  <summary>MEGA</summary>
+
+* [Enforcing unique identifiers across modules in your Android app using lint](https://medium.com/@mega-blog/enforcing-unique-identifiers-across-modules-in-your-android-app-using-lint-4257d977f58d), 2023
+* [Making TDD a Habit in Android Development](https://medium.com/@mega-blog/making-tdd-a-habit-in-android-development-part-1-ed9f2d81f50d), 2023 (series of articles)
+* [Android CI/CD pipelines at MEGA](https://medium.com/@mega-blog/android-ci-cd-pipelines-at-mega-8bba30d30fb5), 2023
+* [Improving unit test performance in MEGA Android](https://medium.com/@mega-blog/improving-unit-test-performance-in-mega-android-bc9bb650d907), 2024
+* [Profiling performance by os_signpost and customized instruments package in MEGA iOS](https://medium.com/@mega-blog/profiling-performance-by-os-signpost-and-customized-instruments-package-in-mega-ios-0e123f126b0e), 2024
+* [Create your first member macro with TDD in iOS](https://medium.com/@mega-blog/create-your-first-member-macro-with-tdd-in-ios-09e301783c60), 2024
+
+</details>
+
+<details>
   <summary>Mercadona Tech</summary>
 
 * [Reduce iOS CI time using test parallelization](https://medium.com/mercadona-tech/reduce-ios-ci-time-using-test-parallelization-de949a80fc5f), 2022
