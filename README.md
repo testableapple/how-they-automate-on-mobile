@@ -997,6 +997,14 @@
 </details>
 
 <details>
+  <summary>Telefónica</summary>
+
+* [Android Mock API Server](https://engineering.telefonica.com/android-mock-api-server-ac754325b2be), 2024
+* [Screenshot tests for a Design system with Roborazzi](https://engineering.telefonica.com/screenshot-tests-for-a-design-system-with-roborazzi-90f038972961), 2024
+
+</details>
+
+<details>
   <summary>The Guardian</summary>
 
 * [Device wall of awesome: how Lego helped our digital development](https://www.theguardian.com/info/developer-blog/2015/jul/31/device-wall-of-awesome-how-lego-helped-our-digital-development), 2015
