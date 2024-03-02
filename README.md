@@ -145,6 +145,13 @@
 </details>
 
 <details>
+  <summary>BestSecret</summary>
+
+* [Evolving our Android CI to the Cloud](https://medium.com/bestsecret-tech/evolving-our-android-ci-to-the-cloud-1-3-from-jenkins-to-gitlab-ci-7ec2af50c241), 2024 (series of articles)
+
+</details>
+
+<details>
   <summary>Bilue</summary>
 
 * [How to version your app in a continuous development world](https://medium.com/bilue/how-to-version-your-app-in-a-continuous-development-world-b4f23c2beab3), 2021
