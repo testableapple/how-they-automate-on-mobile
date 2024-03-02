@@ -541,6 +541,11 @@
 <details>
   <summary>Just Eat Takeaway.com</summary>
 
+* [Optimizing the APK size of Takeaway Driver App with Android App Bundle and WebP](https://medium.com/justeattakeaway-tech/optimising-the-apk-size-of-takeaway-driver-app-with-android-app-bundle-and-webp-6a8f59ece7de), 2019
+* [iOS — Accessibility identifier for Appium UIAutomation](https://medium.com/justeattakeaway-tech/ios-accessibility-identifier-for-appium-uiautomation-66dd9433295c), 2020
+* [iOS Accessibility](https://medium.com/justeattakeaway-tech/ios-accessibility-969012825d3c), 2021
+* [Jetpack Compose UI Testing](https://medium.com/justeattakeaway-tech/jetpack-compose-ui-testing-1362e83a7bb2), 2021
+* [Migrating to Swift Package Manager](https://medium.com/justeattakeaway-tech/migrating-to-swift-package-manager-efb9d2f61ddf), 2023
 * [Backend-Driven UI on Native iOS apps](https://medium.com/justeattakeaway-tech/backend-driven-ui-on-native-ios-apps-613c3e8c579f), 2023
 * [Scalable Continuous Integration for iOS](https://medium.com/justeattakeaway-tech/scalable-continuous-integration-for-ios-15ff33435992), 2024
 
