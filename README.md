@@ -345,6 +345,18 @@
 </details>
 
 <details>
+  <summary>Faire</summary>
+
+* [Bringing type safety to UI tests on iOS](https://craft.faire.com/bringing-type-safety-to-ui-tests-on-ios-23426a5c48de1), 2021
+* [Faire Tech Talk: Mobile performance monitoring at Faire](https://craft.faire.com/mobile-performance-monitoring-at-faire-464945c9d011), 2022
+* [Faire Tech Talk: Scaling mobile foundation](https://craft.faire.com/faire-tech-talk-scaling-mobile-foundation-147093d1afcb), 2022
+* [Raising code quality for Faire’s Kotlin codebase](https://craft.faire.com/raising-code-quality-for-faires-kotlin-codebase-f61420b3e5e6), 2022
+* [Provisioning Jenkins mac1.metal nodes for signing Apple distributions](https://craft.faire.com/provisioning-jenkins-mac1-metal-nodes-for-signing-apple-distributions-f2db98235c28), 2023
+* [How we build reliable E2E tests for iOS at Faire](https://craft.faire.com/how-we-build-reliable-e2e-tests-for-ios-at-faire-d554b3ef5dfc), 2024
+
+</details>
+
+<details>
   <summary>Flipkart</summary>
 
 * [Optimising Flipkart Android App size to sub 10 MB](https://blog.flipkart.tech/optimising-flipkart-android-app-size-to-sub-10-mb-b290d6c29b82), 2018
