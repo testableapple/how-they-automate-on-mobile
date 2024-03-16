@@ -137,6 +137,19 @@
 </details>
 
 <details>
+  <summary>Bam.tech</summary>
+
+* [Use Systrace to debug your Android app performance](https://www.bam.tech/article/use-systrace-to-debug-your-android-app-performance), 2021
+* [Tuist, iOS developer’s new best friend](https://www.bam.tech/article/tuist-ios-developers-new-best-friend), 2022
+* [Setting up a modular iOS app for multiple environments with Tuist](https://www.bam.tech/article/setting-up-a-modular-ios-app-for-multiple-environments-with-tuist), 2022
+* [Adopting Tuist on an Existing Project](https://www.bam.tech/article/adopting-tuist-on-an-existing-project-tuist), 2022
+* [Android app performance: optimize startup time with “above the fold” technique](https://www.bam.tech/article/android-app-performance-optimize-startup-time-with-above-the-fold-technique), 2023
+* [Swift mocking and generating fake data: building effective and maintainable tests](https://www.bam.tech/article/swift-mocking-and-generating-fake-data-building-effective-and-maintainable-tests), 2023
+* [Unlocking New Possibilities with Maestro: Beyond Automated Testing](https://www.bam.tech/article/unlocking-new-possibilities-with-maestro-beyond-automated-testing), 2024
+
+</details>
+
+<details>
   <summary>BBC</summary>
 
 * [Testing BBC iPlayer Release For Android Downloads](https://www.bbc.co.uk/blogs/internet/entries/67c6f28f-3742-3725-9efa-10107857d5e8), 2013
