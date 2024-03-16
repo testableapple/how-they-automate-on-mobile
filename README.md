@@ -178,6 +178,25 @@
 </details>
 
 <details>
+  <summary>Bumble</summary>
+
+* [Add Superpowers to your Appium-Android tests](https://medium.com/bumble-tech/add-superpowers-to-your-appium-android-tests-f408ac2f1b59), 2018
+* [The secret to great code reviews](https://medium.com/bumble-tech/the-secret-to-great-code-reviews-4896639afc0e), 2018
+* [White-box testing with Appium Espresso Driver](https://medium.com/bumble-tech/white-box-testing-with-appium-espresso-driver-f51cda81c1bb), 2019
+* [Swift Package Manager builds iOS frameworks](https://medium.com/bumble-tech/swift-package-manager-builds-ios-frameworks-updated-xcode-10-2-beta-19b3e6741bda), 2019
+* [Continuous delivery for your Kotlin Multiplatform library](https://medium.com/bumble-tech/continuous-delivery-for-your-kotlin-multiplatform-library-3ab5ad5cba59), 2019
+* [Using Hopper to investigate an iOS bug](https://medium.com/bumble-tech/using-hopper-to-investigate-an-ios-bug-66d373e6336d), 2020
+* [Catching bugs on the client-side: how we developed our error tracking system](https://medium.com/bumble-tech/catching-bugs-on-a-client-48c793720b9b), 2020
+* [Automating Android Jetpack Compose using Appium](https://medium.com/bumble-tech/automating-android-jetpack-compose-using-appium-edb760fe79b9), 2021
+* [Mobile test automation practices](https://medium.com/bumble-tech/mobile-test-automation-practices-part-1-verifications-modules-and-basic-actions-92f2e645d9ce), 2021 (series of articles)
+* [Android Lint and Detekt warnings in GitHub pull requests](https://medium.com/bumble-tech/android-lint-and-detekt-warnings-in-github-pull-requests-2880df5d32af), 2022
+* [How to compare .apk / .aab files](https://medium.com/bumble-tech/how-to-compare-apk-aab-files-par-1634563a5af6), 2023 (series of articles)
+* [Crafting Android bytecode analysis tooling using a secret ingredient](https://medium.com/bumble-tech/crafting-android-bytecode-analysis-tooling-using-a-secret-ingredient-part-1-13e2d5a65113), 2024 (series of articles)
+* [Scaling iOS at Bumble](https://medium.com/bumble-tech/scaling-ios-at-bumble-76754fa874f7), 2024 (series of articles)
+
+</details>
+
+<details>
   <summary>CapitalOne</summary>
 
 * [Test-Driven Development – Ready, Set, Go with Google Cloud Test Lab](https://medium.com/capital-one-tech/be-ready-for-tdd-google-cloud-test-lab-20b07ddabc8b), 2016
