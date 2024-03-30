@@ -820,6 +820,14 @@
 </details>
 
 <details>
+  <summary>Playrix</summary>
+
+* [CI/CD at Playrix: How we build and test our games](https://habr.com/en/companies/playrix/articles/479966/), 2019
+* [How Playrix Uses TeamCity to Run Thousands of Builds per Day](https://blog.jetbrains.com/teamcity/2023/02/how-playrix-uses-teamcity/), 2023
+
+</details>
+
+<details>
   <summary>Practo</summary>
 
 * [Build distribution automation with Fastlane and Travis CI — iOS](https://medium.com/practo-engineering/build-distribution-automation-with-fastlane-and-travis-ci-ios-f959dff2799f), 2017
