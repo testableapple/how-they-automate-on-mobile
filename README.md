@@ -1267,6 +1267,13 @@
 </details>
 
 <details>
+  <summary>Zetier</summary>
+
+* [The Art of Android Testing: Wrangling Devices with Lariat](https://zetier.com/news/android-testing-with-lariat/), 2024
+
+</details>
+
+<details>
   <summary>Zenjob</summary>
 
 * [WebdriverIO with Appium: Beyond the perfect scenario](https://medium.com/zenjob-tech-blog/webdriverio-with-appium-beyond-the-perfect-scenario-b534aa70c84e), 2022
