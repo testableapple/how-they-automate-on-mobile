@@ -1052,6 +1052,8 @@
 * [Detecting App Cloning & Location Spoofing on Android](https://bytes.swiggy.com/detecting-app-cloning-location-spoofing-on-android-452dd420f390), 2021
 * [Gradle Incremental Test Runner](https://bytes.swiggy.com/gradle-incremental-test-runner-125cee1e68a7), 2022
 * [Build Time Optimizations (Xcode)](https://bytes.swiggy.com/build-time-optimizations-xcode-911c9c3ac8ff), 2022
+* [Building a robust mobile platform team](https://bytes.swiggy.com/building-a-robust-mobile-platform-team-2ee40cce8670), 2023
+* [Optimizing Configuration time for Android apps that use React Native](https://bytes.swiggy.com/optimizing-configuration-time-for-android-apps-that-use-react-native-81bb8c9bffdf), 2024
 
 </details>
 
