@@ -243,6 +243,19 @@
 </details>
 
 <details>
+  <summary>Cash App</summary>
+
+* [Making iOS Accessibility Testing Easy](https://code.cash.app/making-ios-accessibility-testing-easy), 2020
+* [Taking Bug Reporting Further](https://code.cash.app/taking-bug-reporting-further), 2021
+* [Great teams merge fast](https://code.cash.app/great-teams-merge-fast), 2021
+* [Debugging UI Issues with AardvarkReveal](https://code.cash.app/debugging-ui-issues-with-aardvarkreveal), 2021
+* [Migrating from Burst to TestParameterInjector](https://code.cash.app/migrating-from-burst-to-testparameterinjector), 2021
+* [Flow testing with Turbine](https://code.cash.app/flow-testing-with-turbine), 2023
+* [Mocking isn't evil, but avoid it anyway](https://code.cash.app/mocking), 2023
+
+</details>
+
+<details>
   <summary>Circle K</summary>
 
 * [Testing strategy](https://github.com/MobileNativeFoundation/discussions/discussions/6#discussioncomment-428670), 2021
