@@ -535,6 +535,7 @@
 * [How to Test the Navigation Component in Jetpack Compose?](https://medium.com/huawei-developers/how-to-test-the-navigation-component-in-jetpack-compose-1ab4ccaba761), 2023
 * [Unit Test in Jetpack Compose](https://medium.com/huawei-developers/unit-test-in-jetpack-compose-57c64fd035b7), 2023
 * [How to Write Unit Tests for ViewModel in Jetpack Compose](https://medium.com/huawei-developers/how-to-write-unit-tests-for-viewmodel-in-jetpack-compose-eb06cc81042c), 2023
+* [Huawei Cloud Building Android Project with CodeArts Service](https://medium.com/huawei-developers/%EF%B8%8Fhuawei-cloud-building-android-project-with-codearts-service-43769895264e), 2024
 
 </details>
 
