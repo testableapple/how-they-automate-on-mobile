@@ -32,6 +32,13 @@
 </details>
 
 <details>
+  <summary>Agoda</summary>
+
+* [Optimizing CI/CD Processes with Selective Testing](https://medium.com/agoda-engineering/optimizing-ci-cd-processes-with-selective-testing-f537f9abc9d3), 2024
+
+</details>
+
+<details>
   <summary>Airbnb</summary>
 
 * [Writing fast, deterministic and accurate Android Integration tests](https://medium.com/airbnb-engineering/writing-fast-deterministic-and-accurate-android-integration-tests-c56811bd14e2), 2017
