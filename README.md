@@ -1191,6 +1191,14 @@
 </details>
 
 <details>
+  <summary>Triodos Bank</summary>
+
+* [iOS development and Triodos](https://www.youtube.com/watch?v=mLCvtFFimS0&t=1387s), 2024
+* [Elevating UI Tests with Network Mocking](https://www.youtube.com/watch?v=3M4DzPmsgGs), 2024
+
+</details>
+
+<details>
   <summary>Turo</summary>
 
 * [Android UI Testing with Firebase](https://medium.com/turo-engineering/android-ui-testing-with-firebase-d4f8d48419f7), 2018
