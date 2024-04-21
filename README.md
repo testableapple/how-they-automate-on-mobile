@@ -1076,6 +1076,7 @@
 * [Build Time Optimizations (Xcode)](https://bytes.swiggy.com/build-time-optimizations-xcode-911c9c3ac8ff), 2022
 * [Building a robust mobile platform team](https://bytes.swiggy.com/building-a-robust-mobile-platform-team-2ee40cce8670), 2023
 * [Optimizing Configuration time for Android apps that use React Native](https://bytes.swiggy.com/optimizing-configuration-time-for-android-apps-that-use-react-native-81bb8c9bffdf), 2024
+* [Automating Mobile Event Verification](https://bytes.swiggy.com/automating-mobile-event-verification-1d840f39d300), 2024
 
 </details>
 
