@@ -1063,6 +1063,10 @@
   <summary>Stream</summary>
 
 * [Let's test openly](https://www.youtube.com/watch?v=Ilyg9cRJIuE), 2022
+* [How To Test Remote Push Notifications With iOS Simulators](https://getstream.io/blog/test-ios-push-notifications/), 2023
+* [Improve Your Android App Performance With Baseline Profiles](https://getstream.io/blog/android-baseline-profile/), 2023
+* [Optimize App Performance By Mastering Stability in Jetpack Compose](https://getstream.io/blog/jetpack-compose-stability/), 2024
+* [Boost Performance by Over 100x Using the Accelerate Framework](https://getstream.io/blog/accelerate-framework/), 2024
 
 </details>
 
