@@ -790,6 +790,14 @@
 </details>
 
 <details>
+  <summary>NOS</summary>
+
+* [The struggles of upgrading our Instant enabled app to Android App Bundles](https://medium.com/nos-digital/the-struggles-of-upgrading-our-instant-enabled-app-to-android-app-bundles-6464c7914a1e), 2020
+* [A Tour of Xcode Cloud](https://www.youtube.com/watch?v=4Q3nEGAIjZY), 2023
+
+</details>
+
+<details>
   <summary>Notion</summary>
 
 * [Notion on Android is now more than twice as fast to launch](https://www.notion.so/blog/notion-on-android-is-now-more-than-twice-as-fast-to-launch), 2024
