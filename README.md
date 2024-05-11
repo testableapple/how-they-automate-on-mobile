@@ -790,6 +790,13 @@
 </details>
 
 <details>
+  <summary>Notion</summary>
+
+* [Notion on Android is now more than twice as fast to launch](https://www.notion.so/blog/notion-on-android-is-now-more-than-twice-as-fast-to-launch), 2024
+
+</details>
+
+<details>
   <summary>Outlook</summary>
 
 * [Which hardware are you using to run your CI](https://github.com/MobileNativeFoundation/discussions/discussions/23#discussioncomment-425787), 2021
