@@ -864,6 +864,14 @@
 </details>
 
 <details>
+  <summary>Playtomic</summary>
+
+* [Automating rollout releases in Android](https://dev.to/playtomic/automating-rollout-releases-in-android-1968), 2022
+* [Migrating from CocoaPods to Tuist](https://dev.to/playtomic/migrating-from-cocoapods-to-tuist-at-playtomic-26ed), 2024
+
+</details>
+
+<details>
   <summary>Practo</summary>
 
 * [Build distribution automation with Fastlane and Travis CI — iOS](https://medium.com/practo-engineering/build-distribution-automation-with-fastlane-and-travis-ci-ios-f959dff2799f), 2017
