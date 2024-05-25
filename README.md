@@ -933,6 +933,13 @@
 </details>
 
 <details>
+  <summary>Rippling</summary>
+
+* [Mastering mobile app quality: Rippling's CI/CD journey with Bitrise](https://www.rippling.com/blog/mastering-mobile-app-quality), 2024
+
+</details>
+
+<details>
   <summary>Robinhood</summary>
 
 * [Testing strategy](https://github.com/MobileNativeFoundation/discussions/discussions/6#discussioncomment-421701), 2021
