@@ -1083,6 +1083,13 @@
 </details>
 
 <details>
+  <summary>Start</summary>
+
+* [Role of Local Databases in Android App Testing](https://medium.com/startteam/role-of-local-databases-in-android-app-testing-bb6ea4d71639), 2024
+
+</details>
+
+<details>
   <summary>Strava</summary>
 
 * [Managing Internal iOS Dependencies with Private CocoaPods](https://medium.com/strava-engineering/managing-internal-ios-dependencies-with-private-cocoapods-862c0e0e64ac), 2017
