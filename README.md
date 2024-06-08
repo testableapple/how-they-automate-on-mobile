@@ -454,6 +454,7 @@
   <summary>GitHub</summary>
 
 * [How we ship GitHub Mobile every week](https://github.blog/2022-01-12-how-we-ship-github-mobile-every-week/), 2022
+* [How GitHub reduced testing time for iOS apps with new runner features](https://github.blog/2024-06-03-how-github-reduced-testing-time-for-ios-apps-with-new-runner-features/ ), 2024
 
 </details>
 
