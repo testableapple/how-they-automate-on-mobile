@@ -172,6 +172,13 @@
 </details>
 
 <details>
+  <summary>BigPay</summary>
+
+* [How BigPay Increased Flutter Developer Velocity: CI/CD for Flutter Android](https://medium.com/bigpay-tech-blog/how-bigpay-increased-flutter-developer-velocity-part-1-ci-cd-for-flutter-android-using-github-34624b59762e), 2024
+
+</details>
+
+<details>
   <summary>Bilue</summary>
 
 * [How to version your app in a continuous development world](https://medium.com/bilue/how-to-version-your-app-in-a-continuous-development-world-b4f23c2beab3), 2021
