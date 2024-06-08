@@ -1237,6 +1237,7 @@
 * [Android Test Doubles In Unit Test](https://medium.com/trendyol-tech/android-test-doubles-in-unit-test-bfcb26d3dc3f), 2023
 * [Trendyol and Tuist: Engineering Apps at Scale](https://tuist.io/blog/2023/09/08/trendyol-and-tuist/), 2023
 * [How Do We Manage UI Tests in Sprint](https://medium.com/trendyol-tech/how-do-we-manage-ui-tests-in-sprint-a0fbef977a38), 2023
+* [Selective Unit Testing on iOS: Achieve %80 Faster Feedback](https://medium.com/trendyol-tech/selective-unit-testing-on-ios-achieve-80-faster-feedback-42e865c8ce20), 2024
 
 </details>
 
