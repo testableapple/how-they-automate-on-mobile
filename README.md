@@ -998,6 +998,14 @@
 </details>
 
 <details>
+  <summary>Skeelo</summary>
+
+* [Good practices when creating E2E tests at Skeelo](https://engineering.skeelo.com/good-practices-when-creating-e2e-tests-at-skeelo-05e7201f7b6d), 2024
+* [How Baseline Profile Improve Skeelo Android App Performance](https://engineering.skeelo.com/how-baseline-profile-improve-skeelo-android-app-performance-c0f79d83120b), 2024
+
+</details>
+
+<details>
   <summary>Skyscanner</summary>
 
 * [The present and future of app release at Skyscanner](https://medium.com/@SkyscannerEng/the-present-and-future-of-app-release-at-skyscanner-b393c88972a8), 2016
