@@ -1366,6 +1366,18 @@
 </details>
 
 <details>
+  <summary>Zalando</summary>
+
+* [Speeding up Xcode Builds](https://engineering.zalando.com/posts/2015/06/speeding-up-xcode-builds.html), 2015
+* [Mobile Testing Challenges at Zalando + 6Wunderkinder](https://engineering.zalando.com/posts/2015/07/mobile-testing-challenges-at-zalando--6wunderkinder.html), 2015
+* [How the Zalando iOS App Abandoned CocoaPods and Reduced Build Time](https://engineering.zalando.com/posts/2017/02/how-the-zalando-ios-app-abandoned-cocoapods-and-reduced-build-time.html), 2017
+* [One-click Deployments for iOS Apps using Xcode 8 and More](https://engineering.zalando.com/posts/2017/03/one-click-deployments-for-ios-apps.html), 2017
+* [Improving Swift Compilation Times from 12 to 2 Minutes](https://engineering.zalando.com/posts/2017/04/improving-swift-compilation-times-from-12-to-2-minutes.html), 2017
+* [Mobile App Testing Strategy at Zalando](https://medium.com/@hakkim.alavudeen_5033/mobile-app-testing-strategy-at-zalando-ecd119496658), 2024
+
+</details>
+
+<details>
   <summary>Zetier</summary>
 
 * [The Art of Android Testing: Wrangling Devices with Lariat](https://zetier.com/news/android-testing-with-lariat/), 2024
