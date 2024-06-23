@@ -270,6 +270,13 @@
 </details>
 
 <details>
+  <summary>ClearPoint</summary>
+
+* [Automating large scale refactors using lint and generative AI](https://clearpoint.digital/insights/automating-large-scale-refactors-using-lint-and-generative-ai), 2024
+
+</details>
+
+<details>
   <summary>Compass</summary>
 
 * [Compass Mobile Engineering](https://medium.com/compass-true-north/compass-mobile-engineering-58834af85289), 2017
