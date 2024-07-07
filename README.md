@@ -270,6 +270,13 @@
 </details>
 
 <details>
+  <summary>CheQ</summary>
+
+* [Automating pre-production iOS app builds](https://medium.com/cheqengineering/automating-pre-production-ios-app-builds-def1756aa33a), 2024
+
+</details>
+
+<details>
   <summary>Circle K</summary>
 
 * [Testing strategy](https://github.com/MobileNativeFoundation/discussions/discussions/6#discussioncomment-428670), 2021
