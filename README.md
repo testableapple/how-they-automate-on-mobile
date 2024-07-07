@@ -157,6 +157,13 @@
 </details>
 
 <details>
+  <summary>Barrage</summary>
+
+* [Integrating Code Formatting into Your Android Projects](https://medium.com/@mpavicic99/integrating-code-formatting-into-your-android-projects-663d0056dbe7), 2024
+
+</details>
+
+<details>
   <summary>BBC</summary>
 
 * [Testing BBC iPlayer Release For Android Downloads](https://www.bbc.co.uk/blogs/internet/entries/67c6f28f-3742-3725-9efa-10107857d5e8), 2013
