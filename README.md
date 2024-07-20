@@ -1315,6 +1315,13 @@
 </details>
 
 <details>
+  <summary>Unfold</summary>
+
+* [Unfold's Modern Mobile Release Process and the Subtle Art of Making Them Boring](https://engineering.squarespace.com/blog/2024/unfolds-modern-mobile-release-process-and-the-subtle-art-of-making-them-boring), 2024
+
+</details>
+
+<details>
   <summary>UPMC Enterprises</summary>
 
 * [Running our Android Espresso tests in Parallel](https://rlukasik.medium.com/running-our-android-espresso-tests-in-parallel-2c13ef9231f7), 2023
