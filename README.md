@@ -243,6 +243,15 @@
 </details>
 
 <details>
+  <summary>Careem</summary>
+
+* [Kotlin Multiplatform tests with MockingBird](https://www.msignoretto.com/blog/mockingbird_getstarted), 2021
+* [Source, binary and backward compatibility rule them all](https://engineering.careem.com/tech/posts/source-binary-and-backward-compatibility-rule-them-all), 2024
+* [Kotlin Mobile Monorepo](https://bnvinay92.github.io/2024/05/23/mobile-monorepo.html), 2024
+
+</details>
+
+<details>
   <summary>Carousell</summary>
 
 * [Carousell scales app automation with Browserstack](https://www.browserstack.com/case-study/carousell-scales-app-automation-with-browserstack), 2022
