@@ -994,6 +994,13 @@
 </details>
 
 <details>
+  <summary>SafetyCulture</summary>
+
+* [UI Testing of Mobile apps at SafetyCulture](https://medium.com/safetycultureengineering/ui-testing-of-mobile-apps-at-safetyculture-af4b2d4e4537), 2024
+
+</details>
+
+<details>
   <summary>Shazam</summary>
 
 * [Keeping 100+ million users happy: how we test Shazam on Android](https://www.youtube.com/watch?v=xgjYSf8pjVg), 2014
