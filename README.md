@@ -615,6 +615,18 @@
 </details>
 
 <details>
+  <summary>IDN</summary>
+
+* [Supercharging Unit Tests: Our Journey Towards a 90% Reduction in Test Time](https://engineering.idn.media/supercharging-unit-tests-my-journey-towards-a-90-reduction-in-test-time-c13ade2ac7a0), 2023
+* [Unlocking the Power of Alamofire Interceptor: Real-Life iOS Case Study](https://engineering.idn.media/unlocking-the-power-of-alamofire-interceptor-real-life-ios-case-study-335c3cc5ac5e), 2023
+* [Unleash the Power of Azure Cache: Achieve a 34% Efficiency Boost in CI/CD](https://engineering.idn.media/unleash-the-power-of-azure-cache-achieve-a-34-efficiency-boost-in-ci-cd-11049c544446), 2023
+* [Making the Leap from Azure to Codemagic: Achieving a Remarkable 76.85% Improvement in iOS CI/CD](https://engineering.idn.media/making-the-leap-from-azure-to-codemagic-achieving-a-remarkable-76-85-improvement-in-ios-ci-cd-fb6e72925c03), 2023
+* [Reducing Startup Costs: Developers & Git Hooks for Efficient CI/CD](https://engineering.idn.media/reducing-startup-costs-developers-git-hooks-for-efficient-ci-cd-97403399f8bd), 2023
+* [Goodbye pbxproj Conflicts: Mastering Xcode Project Automation to Streamline Your Workflow with XcodeGen](https://engineering.idn.media/goodbye-pbxproj-conflicts-simplify-your-ios-project-management-with-xcodegen-a45f750b7770), 2024
+
+</details>
+
+<details>
   <summary>Instabug</summary>
 
 * [Testing strategy](https://github.com/MobileNativeFoundation/discussions/discussions/6#discussioncomment-498013), 2021
@@ -1449,8 +1461,8 @@
 
 ## Sponsors
 
-<a target="_blank" rel="noopener noreferrer" href="https://www.runway.team/?utm_campaign%3DHow%20They%20Automate%20on%20Mobile%26utm_medium%3Dgithub%26utm_source%3DHow%20They%20Automate%20on%20Mobile#gh-light-mode-only"><img src="https://testableapple.com/assets/images/runway-light.png#gh-light-mode-only" width="250px" alt="Runway Logo" style="max-width: 100%;"></a>
-<a target="_blank" rel="noopener noreferrer" href="https://www.runway.team/?utm_campaign%3DHow%20They%20Automate%20on%20Mobile%26utm_medium%3Dgithub%26utm_source%3DHow%20They%20Automate%20on%20Mobile#gh-dark-mode-only"><img src="https://testableapple.com/assets/images/runway-dark.png#gh-dark-mode-only" width="250px" alt="Runway Logo" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://www.runway.team/?utm_campaign%3DHow%20They%20Automate%20on%20Mobile%26utm_medium%3Dgithub%26utm_source%3DHow%20They%20Automate%20on%20Mobile#gh-light-mode-only"><img src="https://testableapple.com/assets/images/runway-light.png?q=0#gh-light-mode-only" width="250px" alt="Runway Logo" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://www.runway.team/?utm_campaign%3DHow%20They%20Automate%20on%20Mobile%26utm_medium%3Dgithub%26utm_source%3DHow%20They%20Automate%20on%20Mobile#gh-dark-mode-only"><img src="https://testableapple.com/assets/images/runway-dark.png?q=0#gh-dark-mode-only" width="250px" alt="Runway Logo" style="max-width: 100%;"></a>
 
 The collection is proudly sponsored by [Runway](https://www.runway.team/?utm_campaign%3DHow%20They%20Automate%20on%20Mobile%26utm_medium%3Dgithub%26utm_source%3DHow%20They%20Automate%20on%20Mobile), the leading mobile release management platform that helps teams better coordinate and automate app releases.
 
