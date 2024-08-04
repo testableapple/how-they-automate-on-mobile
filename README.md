@@ -182,6 +182,7 @@
   <summary>BigPay</summary>
 
 * [How BigPay Increased Flutter Developer Velocity: CI/CD for Flutter Android](https://medium.com/bigpay-tech-blog/how-bigpay-increased-flutter-developer-velocity-part-1-ci-cd-for-flutter-android-using-github-34624b59762e), 2024
+* [How BigPay Increased Flutter Developer Velocity: CI/CD for Flutter iOS](https://medium.com/bigpay-tech-blog/how-bigpay-increased-flutter-developer-velocity-part-2-ci-cd-for-flutter-ios-19635ec9c7ba), 2024
 
 </details>
 
