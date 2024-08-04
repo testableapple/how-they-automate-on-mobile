@@ -1316,6 +1316,14 @@
 </details>
 
 <details>
+  <summary>Tweeq</summary>
+
+* [Building a Modern Payments Platform](https://engineering.tweeq.sa/building-a-modern-payments-platform-8f85003ec636), 2021
+* [How We Do Mobile Deployments and Releases at Tweeq](https://engineering.tweeq.sa/how-we-do-mobile-deployments-and-releases-at-tweeq-56b9e96d8eeb), 2024
+
+</details>
+
+<details>
   <summary>Uber</summary>
 
 * [The Uber Challenge of Cross-Application/Cross-Device Testing](https://www.youtube.com/watch?v=p6gsssppeT0), 2015
