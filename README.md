@@ -422,6 +422,14 @@
 </details>
 
 <details>
+  <summary>EX Squared</summary>
+
+* [Using Gradle constants to manage dependency versions in Android](https://medium.com/exsq-engineering-hub/managing-dependency-versions-in-android-f251e52422bd), 2019
+* [CI/CD with Bitbucket pipelines in Flutter](https://medium.com/exsq-engineering-hub/ci-cd-with-bitbucket-pipelines-in-flutter-f82d2f99485a), 2023
+
+</details>
+
+<details>
   <summary>Facebook</summary>
 
 * [Timed releases for mobile apps](https://engineering.fb.com/2012/09/20/android/timed-releases-for-mobile-apps/), 2012
