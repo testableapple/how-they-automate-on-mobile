@@ -301,6 +301,15 @@
 </details>
 
 <details>
+  <summary>CodeStax.Ai</summary>
+
+* [iOS mobile application automation testing using Appium](https://codestax.medium.com/ios-mobile-application-automation-testing-using-appium-afc3836eab09), 2022
+* [Mobile Automation Testing using Appium and Python](https://codestax.medium.com/mobile-automation-testing-using-appium-and-python-9ca18f39e8ed), 2023
+* [Mobile Automation Testing with Cucumber, Appium, and Allure Reporting for iOS](https://codestax.medium.com/mobile-automation-testing-with-cucumber-appium-and-allure-reporting-for-ios-6ca1b19dfeb1), 2024
+
+</details>
+
+<details>
   <summary>Compass</summary>
 
 * [Compass Mobile Engineering](https://medium.com/compass-true-north/compass-mobile-engineering-58834af85289), 2017
