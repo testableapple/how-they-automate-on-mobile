@@ -836,6 +836,14 @@
 </details>
 
 <details>
+  <summary>MY.GAMES</summary>
+
+* [When and How to Properly Do Automated QA Testing in Gamedev](https://medium.com/my-games-company/when-and-how-to-properly-do-automated-qa-testing-in-gamedev-a4729ebabb05), 2023
+* [Beyond the routine in QA: how we automated regression testing](https://medium.com/my-games-company/beyond-the-routine-in-qa-how-we-automated-regression-testing-2f6a98d98415), 2024
+
+</details>
+
+<details>
   <summary>NatWest</summary>
 
 * [Testing strategy](https://github.com/MobileNativeFoundation/discussions/discussions/6#discussioncomment-4646182), 2022
