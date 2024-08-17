@@ -301,6 +301,15 @@
 </details>
 
 <details>
+  <summary>CodeStax.Ai</summary>
+
+* [iOS mobile application automation testing using Appium](https://codestax.medium.com/ios-mobile-application-automation-testing-using-appium-afc3836eab09), 2022
+* [Mobile Automation Testing using Appium and Python](https://codestax.medium.com/mobile-automation-testing-using-appium-and-python-9ca18f39e8ed), 2023
+* [Mobile Automation Testing with Cucumber, Appium, and Allure Reporting for iOS](https://codestax.medium.com/mobile-automation-testing-with-cucumber-appium-and-allure-reporting-for-ios-6ca1b19dfeb1), 2024
+
+</details>
+
+<details>
   <summary>Compass</summary>
 
 * [Compass Mobile Engineering](https://medium.com/compass-true-north/compass-mobile-engineering-58834af85289), 2017
@@ -1463,10 +1472,6 @@
 
 <a target="_blank" rel="noopener noreferrer" href="https://www.runway.team/?utm_campaign%3DHow%20They%20Automate%20on%20Mobile%26utm_medium%3Dgithub%26utm_source%3DHow%20They%20Automate%20on%20Mobile#gh-light-mode-only"><img src="https://testableapple.com/assets/images/runway-light.png?q=0#gh-light-mode-only" width="250px" alt="Runway Logo" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://www.runway.team/?utm_campaign%3DHow%20They%20Automate%20on%20Mobile%26utm_medium%3Dgithub%26utm_source%3DHow%20They%20Automate%20on%20Mobile#gh-dark-mode-only"><img src="https://testableapple.com/assets/images/runway-dark.png?q=0#gh-dark-mode-only" width="250px" alt="Runway Logo" style="max-width: 100%;"></a>
-
-The collection is proudly sponsored by [Runway](https://www.runway.team/?utm_campaign%3DHow%20They%20Automate%20on%20Mobile%26utm_medium%3Dgithub%26utm_source%3DHow%20They%20Automate%20on%20Mobile), the leading mobile release management platform that helps teams better coordinate and automate app releases.
-
-> [Support](https://github.com/sponsors/testableapple) «How They Automate on Mobile» collection on GitHub Sponsors.
 
 ## Contributors
 
