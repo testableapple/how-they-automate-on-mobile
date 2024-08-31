@@ -1343,6 +1343,13 @@
 </details>
 
 <details>
+  <summary>Tuist</summary>
+
+* [How Tuist migrated from GitHub Actions to Codemagic for faster and more reliable CI](https://blog.codemagic.io/how-tuist-migrated-from-github-actions-to-codemagic-for-faster-and-more-reliable-ci/), 2024
+
+</details>
+
+<details>
   <summary>Turo</summary>
 
 * [Android UI Testing with Firebase](https://medium.com/turo-engineering/android-ui-testing-with-firebase-d4f8d48419f7), 2018
