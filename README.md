@@ -18,6 +18,10 @@
 ## Companies
 
 <details>
+  <summary>Click me 👀</summary>
+  <br>
+
+<details>
   <summary>Adobe</summary>
 
 * [Automate and Speed Up iOS Builds with Xcode Server](https://blog.developer.adobe.com/automate-ios-builds-using-xcode-server-2e7effa8d2ef), 2021
@@ -583,6 +587,7 @@
 
 * [Send gitlab notification to google chat in 3 minutes](https://medium.com/gravel-engineering/send-gitlab-notification-to-google-chat-in-3-minutes-f81f6a92ac3a), 2023
 * [Manage iOS Versioning for Release with Fastlane](https://medium.com/gravel-engineering/manage-ios-versioning-for-release-with-fastlane-d660cc750abc), 2023
+* [Simplify Merge Request Description with Templates in Gitlab](https://medium.com/gravel-engineering/simplify-merge-request-description-with-templates-in-gitlab-45dca182185d), 2023
 
 </details>
 
@@ -1497,6 +1502,8 @@
 
 * [WebdriverIO with Appium: Beyond the perfect scenario](https://medium.com/zenjob-tech-blog/webdriverio-with-appium-beyond-the-perfect-scenario-b534aa70c84e), 2022
 * [Android unit testing at Zenjob](https://medium.com/zenjob-tech-blog/android-unit-testing-at-zenjob-ac6fe86304f1), 2023
+
+</details>
 
 </details>
 
