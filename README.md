@@ -1279,6 +1279,13 @@
 </details>
 
 <details>
+  <summary>Tinder</summary>
+
+* [Bazel Hermetic Toolchain and Tooling Migration](https://medium.com/tinder/bazel-hermetic-toolchain-and-tooling-migration-c244dc0d3ae), 2022
+
+</details>
+
+<details>
   <summary>Tokopedia</summary>
 
 * [How We Solve The Sideloading Crash After App Bundle Implementation](https://medium.com/tokopedia-engineering/how-we-solve-the-sideloading-crash-after-app-bundle-implementation-40094721b525), 2019
