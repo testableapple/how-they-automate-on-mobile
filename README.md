@@ -498,6 +498,13 @@
 </details>
 
 <details>
+  <summary>Fresco</summary>
+
+* [Our journey into mobile E2E testing](https://medium.com/@heitorcolangelo/our-journey-into-mobile-e2e-testing-0f0236122773), 2024
+
+</details>
+
+<details>
   <summary>FunCorp</summary>
 
 * [Creating Impactful Messages With Ad Testing](https://medium.com/swlh/creating-impactful-messages-with-ad-testing-d57dc631577f), 2021
