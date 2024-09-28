@@ -366,6 +366,13 @@
 </details>
 
 <details>
+  <summary>Duolingo</summary>
+
+* [How we safely removed 10,000 lines of code using Emerge Tools’ Reaper](https://blog.duolingo.com/emerge-tools-reaper/), 2024
+
+</details>
+
+<details>
   <summary>eBay</summary>
 
 * [Functional iOS Testing in Swift](https://tech.ebayinc.com/engineering/functional-ios-testing-in-swift/), 2015
