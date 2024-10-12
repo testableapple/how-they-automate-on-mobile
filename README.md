@@ -284,6 +284,13 @@
 </details>
 
 <details>
+  <summary>CHECK24</summary>
+
+* [Android UI and Snapshot Testing Experience](https://android-ui-testing.github.io/Cookbook/adoption/companies_experience/#check24), 2021
+
+</details>
+
+<details>
   <summary>CheQ</summary>
 
 * [Automating pre-production iOS app builds](https://medium.com/cheqengineering/automating-pre-production-ios-app-builds-def1756aa33a), 2024
