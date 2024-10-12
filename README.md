@@ -652,6 +652,7 @@
 <details>
   <summary>hh.ru</summary>
 
+* [Android UI Testing Experience](https://android-ui-testing.github.io/Cookbook/adoption/companies_experience/#headhunter-hhru), 2021
 * [Automating the release process](https://medium.com/hh-ru/automating-the-release-process-af8f97edc7bc), 2022
 * [Quality assurance for mobile development at hh.ru](https://medium.com/hh-ru/quality-assurance-for-mobile-development-at-hh-ru-b9683e63414f), 2022
 
