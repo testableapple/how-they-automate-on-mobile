@@ -701,7 +701,7 @@
 <details>
   <summary>Kaspersky</summary>
 
-* [UI Testing Cookbook](https://android-ui-testing.github.io/Cookbook/adoption/companies_experience/#kaspersky), 2023
+* [Android UI and Snapshot Testing Experience](https://android-ui-testing.github.io/Cookbook/adoption/companies_experience/#kaspersky), 2021
 * [A step-by-step tutorial in codelab format for Android UI testing](https://medium.com/kasperskymedia/a-step-by-step-tutorial-in-codelab-format-for-android-ui-testing-a5581f251b29), 2023
 * [How to make Espresso tests more readable and stable](https://medium.com/kasperskymedia/how-to-make-espresso-tests-more-readable-and-stable-c0a055ce1fb7), 2023
 * [How to make automated tests flexible and concise](https://medium.com/kasperskymedia/how-to-make-automated-tests-flexible-and-concise-e3e5ec0d8d00), 2023
