@@ -331,6 +331,13 @@
 </details>
 
 <details>
+  <summary>Delivery Club</summary>
+
+* [Android UI Testing Experience](https://android-ui-testing.github.io/Cookbook/adoption/companies_experience/#delivery-club), 2021
+
+</details>
+
+<details>
   <summary>Disney + Hotstar</summary>
 
 * [Using Apple's Testing Mjölnir: XCUITest](https://blog.hotstar.com/using-apples-testing-mj%C3%B6lnir-xcuitest-9c3bad88ae4b), 2020
