@@ -319,6 +319,13 @@
 </details>
 
 <details>
+  <summary>Citymobil</summary>
+
+* [Android UI Testing Experience](https://android-ui-testing.github.io/Cookbook/adoption/companies_experience/#_1), 2022
+
+</details>
+
+<details>
   <summary>ClearPoint</summary>
 
 * [Automating large scale refactors using lint and generative AI](https://clearpoint.digital/insights/automating-large-scale-refactors-using-lint-and-generative-ai), 2024
