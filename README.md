@@ -107,6 +107,13 @@
 </details>
 
 <details>
+  <summary>Auto.ru</summary>
+
+* [Android UI and Snapshot Testing Experience](https://android-ui-testing.github.io/Cookbook/adoption/companies_experience/#autoru), 2022
+
+</details>
+
+<details>
   <summary>AutoScout24</summary>
 
 * [Optimise battery usage of Android Applications](https://tech.autoscout24.com/blog/posts/optimise-battery-usage-of-android-applications/), 2023
