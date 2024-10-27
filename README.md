@@ -190,6 +190,13 @@
 </details>
 
 <details>
+  <summary>BetterMe</summary>
+
+* [Android UI Testing Experience](https://android-ui-testing.github.io/Cookbook/adoption/companies_experience/#betterme), 2022
+
+</details>
+
+<details>
   <summary>BigPay</summary>
 
 * [How BigPay Increased Flutter Developer Velocity: CI/CD for Flutter Android](https://medium.com/bigpay-tech-blog/how-bigpay-increased-flutter-developer-velocity-part-1-ci-cd-for-flutter-android-using-github-34624b59762e), 2024
