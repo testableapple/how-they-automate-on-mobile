@@ -298,6 +298,13 @@
 </details>
 
 <details>
+  <summary>CFT</summary>
+
+* [Android UI Testing Experience](https://android-ui-testing.github.io/Cookbook/adoption/companies_experience/#cft), 2022
+
+</details>
+
+<details>
   <summary>CHECK24</summary>
 
 * [Android UI and Snapshot Testing Experience](https://android-ui-testing.github.io/Cookbook/adoption/companies_experience/#check24), 2021
