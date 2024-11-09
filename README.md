@@ -61,6 +61,13 @@
 </details>
 
 <details>
+  <summary>AlloFresh</summary>
+
+* [Flutter end-to-end test using Patrol](https://medium.com/allofresh-engineering/flutter-end-to-end-test-using-patrol-810c6a25bf8d), 2024
+
+</details>
+
+<details>
   <summary>Apple</summary>
 
 * [Testing](https://developer.apple.com/documentation/xcode#testing)
