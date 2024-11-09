@@ -1017,6 +1017,18 @@
 </details>
 
 <details>
+  <summary>Povio</summary>
+
+* [Introducing a Universal Binary SPM Command Line Tool for Intel and M1 Macs](https://povio.com/blog/introducing-a-universal-binary-spm-command-line-tool-for-intel-and-m1-macs/), 2023
+* [Creating a React Native Library with CocoaPod Dependencies](https://povio.com/blog/creating-a-react-native-library-with-cocoapod-dependencies/), 2024
+* [How to Publish iOS App to The App Store](https://povio.com/blog/how-to-publish-ios-app-to-the-app-store/), 2024
+* [Solving the Localization Puzzle: Why Povio Built Lingua](https://povio.com/blog/solving-the-localization-puzzle-why-povio-built-lingua/), 2024
+* [Securely Manage iOS App Data With .xcconfig And CI/CD](https://povio.com/blog/securely-manage-sensitive-data-with-xcconfig-files-and-ci-cd-injection/), 2024
+* [Why Appium is Still the Top Choice for Mobile App Testing](https://povio.com/blog/why-appium-is-still-the-top-choice-for-mobile-app-testing/), 2024
+
+</details>
+
+<details>
   <summary>Practo</summary>
 
 * [Build distribution automation with Fastlane and Travis CI — iOS](https://medium.com/practo-engineering/build-distribution-automation-with-fastlane-and-travis-ci-ios-f959dff2799f), 2017
