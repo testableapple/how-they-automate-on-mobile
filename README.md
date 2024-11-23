@@ -1043,6 +1043,13 @@
 </details>
 
 <details>
+  <summary>PrizePicks</summary>
+
+* [How PrizePicks scaled mobile releases by getting every team member in the game with Runway](https://www.runway.team/customers/prizepicks), 2024
+
+</details>
+
+<details>
   <summary>Qonto</summary>
 
 * [How slow are your Android builds?](https://medium.com/qonto-way/how-slow-are-your-android-builds-4b9e2dec092d), 2021
