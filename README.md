@@ -1597,6 +1597,17 @@
 
 </details>
 
+<details>
+  <summary>Zomato</summary>
+
+* [How we cut the build time for our Android app by 95%﻿](https://blog.zomato.com/how-we-cut-the-build-time-for-our-android-app-by-95), 2019
+* [How we improved our iOS app compile time by 99%﻿](https://blog.zomato.com/ios-compile-time), 2019
+* [How we improved our Android app startup time by over 20% with Baseline Profile](https://blog.zomato.com/how-we-improved-our-android-app-startup-time-by-over-20-with-baseline-profile), 2023
+* [Unlocking Innovation: Zomato’s journey to seamless iOS code sharing & distribution with Swift Package Manager](https://blog.zomato.com/zomatos-journey-to-seamless-ios-code-sharing-and-distribution), 2024
+* [The Ultimate Pre-Release Checklist for Mobile Apps](https://medium.com/@asheeshsharma2594/%EF%B8%8F-the-ultimate-pre-release-checklist-for-mobile-apps-f1e7ef1fda9b), 2024
+
+</details>
+
 </details>
 
 ## Sponsors
