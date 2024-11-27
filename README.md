@@ -877,6 +877,7 @@
 * [Leverage Kotlin in your Android CI](https://engineering.mercari.com/en/blog/entry/20221012-leverage-kotlin-in-your-android-ci/), 2022
 * [Fast and reliable iOS builds with Bazel at Mercari](https://engineering.mercari.com/en/blog/entry/20221215-16cdd59909/), 2023
 * [Mercari QA and Compose for Android automation](https://engineering.mercari.com/en/blog/entry/20230620-mercari-qa-and-compose-for-android-automation/), 2023
+* [The art of streamlining mobile app releases](https://engineering.mercari.com/en/blog/entry/20231212-the-art-of-streamlining-mobile-app-releases/), 2023
 
 </details>
 
@@ -1609,11 +1610,6 @@
 </details>
 
 </details>
-
-## Sponsors
-
-<a target="_blank" rel="noopener noreferrer" href="https://www.runway.team/?utm_campaign%3DHow%20They%20Automate%20on%20Mobile%26utm_medium%3Dgithub%26utm_source%3DHow%20They%20Automate%20on%20Mobile#gh-light-mode-only"><img src="https://testableapple.com/assets/images/runway-light.png?q=0#gh-light-mode-only" width="250px" alt="Runway Logo" style="max-width: 100%;"></a>
-<a target="_blank" rel="noopener noreferrer" href="https://www.runway.team/?utm_campaign%3DHow%20They%20Automate%20on%20Mobile%26utm_medium%3Dgithub%26utm_source%3DHow%20They%20Automate%20on%20Mobile#gh-dark-mode-only"><img src="https://testableapple.com/assets/images/runway-dark.png?q=0#gh-dark-mode-only" width="250px" alt="Runway Logo" style="max-width: 100%;"></a>
 
 ## Contributors
 
