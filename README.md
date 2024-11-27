@@ -401,6 +401,7 @@
 * [Building Multiple Distinctly Branded iOS Apps from a Single Codebase](https://doordash.engineering/2021/03/02/multiple-ios-apps-single-codebase/), 2021
 * [How to Speed Up SwiftUI Development and Testing Using PreviewSnapshots](https://doordash.engineering/2023/01/18/how-to-speed-up-swiftui-development-and-testing-using-previewsnapshots/), 2023
 * [How We Reduced Our iOS App Launch Time by 60%](https://doordash.engineering/2023/01/31/how-we-reduced-our-ios-app-launch-time-by-60/), 2023
+* [How DoorDash Manages Mobile Releases](https://careersatdoordash.com/blog/how-doordash-manages-mobile-releases/), 2023
 
 </details>
 
