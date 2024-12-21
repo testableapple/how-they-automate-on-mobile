@@ -952,6 +952,13 @@
 </details>
 
 <details>
+  <summary>OpenAI</summary>
+
+* [OpenAI on Mobile Development, Previews, & Snapshot Testing](https://www.emergetools.com/blog/posts/openai-on-mobile-development-previews-and-snapshot-testing), 2024
+
+</details>
+
+<details>
   <summary>Outlook</summary>
 
 * [Which hardware are you using to run your CI](https://github.com/MobileNativeFoundation/discussions/discussions/23#discussioncomment-425787), 2021
