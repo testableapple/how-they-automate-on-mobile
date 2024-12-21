@@ -491,35 +491,6 @@
 </details>
 
 <details>
-  <summary>Facebook</summary>
-
-* [Timed releases for mobile apps](https://engineering.fb.com/2012/09/20/android/timed-releases-for-mobile-apps/), 2012
-* [Buck: How we build Android apps at Facebook](https://engineering.fb.com/2013/05/14/android/buck-how-we-build-android-apps-at-facebook/), 2013
-* [Building Mobile Apps with Open Source Tools - Mobile @ Scale](https://www.youtube.com/watch?v=c2Q22KDjXmI), 2013
-* [How Facebook Tests Facebook on Android](https://www.youtube.com/watch?v=HUE_yrd8tl0), 2013
-* [Airlock – Facebook’s mobile A/B testing framework](https://engineering.fb.com/2014/01/09/android/airlock-facebook-s-mobile-a-b-testing-framework/), 2014
-* [Mobile End to End Testing at Scale](https://www.youtube.com/watch?v=7tzA2nsg1jQ), 2015
-* [Stetho: A new debugging platform for Android](https://engineering.fb.com/2015/02/18/android/stetho-a-new-debugging-platform-for-android/), 2015
-* [Improving Facebook’s performance on Android with FlatBuffers](https://engineering.fb.com/2015/07/31/android/improving-facebook-s-performance-on-android-with-flatbuffers/), 2015
-* [Performance instrumentation for Android apps](https://engineering.fb.com/2015/10/26/android/performance-instrumentation-for-android-apps/), 2015
-* [Open-sourcing ReDex: Making Android apps smaller and faster](https://engineering.fb.com/2016/04/12/android/open-sourcing-redex-making-android-apps-smaller-and-faster/), 2016
-* [Automatic memory leak detection on iOS](https://engineering.fb.com/2016/04/13/ios/automatic-memory-leak-detection-on-ios/), 2016
-* [The mobile device lab at the Prineville data center](https://engineering.fb.com/2016/07/13/android/the-mobile-device-lab-at-the-prineville-data-center/), 2016
-* [Android accessibility debugging with Stetho](https://engineering.fb.com/2016/10/17/android/android-accessibility-debugging-with-stetho/), 2016
-* [Managing resources for large-scale testing](https://engineering.fb.com/2017/05/24/android/managing-resources-for-large-scale-testing/), 2017
-* [Rapid release at massive scale](https://engineering.fb.com/2017/08/31/web/rapid-release-at-massive-scale/), 2017
-* [Open-sourcing RacerD: Fast static race detection at scale](https://engineering.fb.com/2017/10/19/android/open-sourcing-racerd-fast-static-race-detection-at-scale/), 2017
-* [Turning iOS End to End Testing up to 11](https://www.youtube.com/watch?v=BQmLnrDBJSs), 2017
-* [HotSwap: Bringing hot code reloading to Buck](https://engineering.fb.com/2018/02/28/android/hotswap-bringing-hot-code-reloading-to-buck/), 2018
-* [Open-sourcing Flipper: a new extensible debugging tool](https://engineering.fb.com/2018/06/11/android/flipper/), 2018
-* [MobileLab: Highly accurate testing to prevent mobile performance regressions](https://engineering.fb.com/2018/10/19/android/mobilelab/), 2018
-* [Superpack: Pushing the limits of compression in Facebook’s mobile apps](https://engineering.fb.com/2021/09/13/core-data/superpack/), 2021
-* [Open-sourcing Mariana Trench: Analyzing Android and Java app security in depth](https://engineering.fb.com/2021/09/29/security/mariana-trench/), 2021
-* [How WhatsApp tests software?](https://automationhacks.io/2023-10-18-how-whatsapp-tests-software), 2023
-
-</details>
-
-<details>
   <summary>Faire</summary>
 
 * [Bringing type safety to UI tests on iOS](https://craft.faire.com/bringing-type-safety-to-ui-tests-on-ios-23426a5c48de1), 2021
@@ -879,6 +850,36 @@
 * [Fast and reliable iOS builds with Bazel at Mercari](https://engineering.mercari.com/en/blog/entry/20221215-16cdd59909/), 2023
 * [Mercari QA and Compose for Android automation](https://engineering.mercari.com/en/blog/entry/20230620-mercari-qa-and-compose-for-android-automation/), 2023
 * [The art of streamlining mobile app releases](https://engineering.mercari.com/en/blog/entry/20231212-the-art-of-streamlining-mobile-app-releases/), 2023
+
+</details>
+
+<details>
+  <summary>Meta</summary>
+
+* [Timed releases for mobile apps](https://engineering.fb.com/2012/09/20/android/timed-releases-for-mobile-apps/), 2012
+* [Buck: How we build Android apps at Facebook](https://engineering.fb.com/2013/05/14/android/buck-how-we-build-android-apps-at-facebook/), 2013
+* [Building Mobile Apps with Open Source Tools - Mobile @ Scale](https://www.youtube.com/watch?v=c2Q22KDjXmI), 2013
+* [How Facebook Tests Facebook on Android](https://www.youtube.com/watch?v=HUE_yrd8tl0), 2013
+* [Airlock – Facebook’s mobile A/B testing framework](https://engineering.fb.com/2014/01/09/android/airlock-facebook-s-mobile-a-b-testing-framework/), 2014
+* [Mobile End to End Testing at Scale](https://www.youtube.com/watch?v=7tzA2nsg1jQ), 2015
+* [Stetho: A new debugging platform for Android](https://engineering.fb.com/2015/02/18/android/stetho-a-new-debugging-platform-for-android/), 2015
+* [Improving Facebook’s performance on Android with FlatBuffers](https://engineering.fb.com/2015/07/31/android/improving-facebook-s-performance-on-android-with-flatbuffers/), 2015
+* [Performance instrumentation for Android apps](https://engineering.fb.com/2015/10/26/android/performance-instrumentation-for-android-apps/), 2015
+* [Open-sourcing ReDex: Making Android apps smaller and faster](https://engineering.fb.com/2016/04/12/android/open-sourcing-redex-making-android-apps-smaller-and-faster/), 2016
+* [Automatic memory leak detection on iOS](https://engineering.fb.com/2016/04/13/ios/automatic-memory-leak-detection-on-ios/), 2016
+* [The mobile device lab at the Prineville data center](https://engineering.fb.com/2016/07/13/android/the-mobile-device-lab-at-the-prineville-data-center/), 2016
+* [Android accessibility debugging with Stetho](https://engineering.fb.com/2016/10/17/android/android-accessibility-debugging-with-stetho/), 2016
+* [Managing resources for large-scale testing](https://engineering.fb.com/2017/05/24/android/managing-resources-for-large-scale-testing/), 2017
+* [Rapid release at massive scale](https://engineering.fb.com/2017/08/31/web/rapid-release-at-massive-scale/), 2017
+* [Open-sourcing RacerD: Fast static race detection at scale](https://engineering.fb.com/2017/10/19/android/open-sourcing-racerd-fast-static-race-detection-at-scale/), 2017
+* [Turning iOS End to End Testing up to 11](https://www.youtube.com/watch?v=BQmLnrDBJSs), 2017
+* [HotSwap: Bringing hot code reloading to Buck](https://engineering.fb.com/2018/02/28/android/hotswap-bringing-hot-code-reloading-to-buck/), 2018
+* [Open-sourcing Flipper: a new extensible debugging tool](https://engineering.fb.com/2018/06/11/android/flipper/), 2018
+* [MobileLab: Highly accurate testing to prevent mobile performance regressions](https://engineering.fb.com/2018/10/19/android/mobilelab/), 2018
+* [Superpack: Pushing the limits of compression in Facebook’s mobile apps](https://engineering.fb.com/2021/09/13/core-data/superpack/), 2021
+* [Open-sourcing Mariana Trench: Analyzing Android and Java app security in depth](https://engineering.fb.com/2021/09/29/security/mariana-trench/), 2021
+* [How WhatsApp tests software?](https://automationhacks.io/2023-10-18-how-whatsapp-tests-software), 2023
+* [How we think about Threads’ iOS performance](https://engineering.fb.com/2024/12/18/ios/how-we-think-about-threads-ios-performance/), 2024
 
 </details>
 
