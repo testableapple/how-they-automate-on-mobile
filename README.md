@@ -949,6 +949,7 @@
   <summary>Notion</summary>
 
 * [Notion on Android is now more than twice as fast to launch](https://www.notion.so/blog/notion-on-android-is-now-more-than-twice-as-fast-to-launch), 2024
+* [How Notion Builds Their iOS and Android Apps](https://www.youtube.com/watch?v=Ga7xKYQ41XU), 2024
 
 </details>
 
