@@ -1179,6 +1179,9 @@
 
 * [Streamline Flutter Development with Clean Architecture](https://medium.com/simform-engineering/streamline-flutter-development-with-clean-architecture-a850b182cfb9), 2024
 * [Introduction to Swift Testing Framework](https://medium.com/simform-engineering/introduction-to-swift-testing-framework-aab7f6ecfb7d), 2024
+* [Mastering Flutter Testing: Unit Tests](https://medium.com/simform-engineering/mastering-flutter-testing-unit-tests-89740fec36ca), 2024
+* [Mastering Flutter Testing: Widget Tests](https://medium.com/simform-engineering/mastering-flutter-testing-widget-tests-9e03dffdaa48), 2024
+* [Mastering Flutter Testing: Integration Tests](https://medium.com/simform-engineering/mastering-flutter-testing-integration-tests-dbb573989e16), 2024
 
 </details>
 
