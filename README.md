@@ -1093,6 +1093,7 @@
 * [iOS: UI Testing Strategy and Tooling](https://www.reddit.com/r/RedditEng/comments/14gd9gc/ios_ui_testing_strategy_and_tooling/), 2023
 * [From Fragile to Agile: Automating the fight against Flaky Tests](https://www.reddit.com/r/RedditEng/comments/1ap4axo/from_fragile_to_agile_automating_the_fight/), 2024
 * [Modular YAML Configuration for CI](https://www.reddit.com/r/RedditEng/comments/1ekvrki/modular_yaml_configuration_for_ci/), 2024
+* [Reddit improved app startup speed by over 50% using Baseline Profiles and R8](https://android-developers.googleblog.com/2024/12/reddit-improved-app-startup-speed-using-baseline-profiles-r8.html), 2024
 
 </details>
 
