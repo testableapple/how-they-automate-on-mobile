@@ -622,6 +622,7 @@
 * [How Grab is Blazing Through the Superapp Bazel Migration](https://engineering.grab.com/how-grab-is-blazing-through-the-super-app-bazel-migration), 2020
 * [App Modularisation at Scale](https://engineering.grab.com/app-modularisation-at-scale), 2021
 * [How we improved our iOS CI infrastructure with observability tools](https://engineering.grab.com/iOS-CI-infrastructure-with-observability-tools), 2023
+* [Android App Size at Scale with Project Bonsai](https://engineering.grab.com/project-bonsai), 2024
 
 </details>
 
