@@ -36,6 +36,13 @@
 </details>
 
 <details>
+  <summary>Adyen</summary>
+
+* [Preventing Accidental API Breaks: A Swift Developer's Guide to API Diffing](https://www.adyen.com/knowledge-hub/swift-api-diff), 2024
+
+</details>
+
+<details>
   <summary>Agoda</summary>
 
 * [Optimizing CI/CD Processes with Selective Testing](https://medium.com/agoda-engineering/optimizing-ci-cd-processes-with-selective-testing-f537f9abc9d3), 2024
