@@ -419,6 +419,7 @@
   <summary>Duolingo</summary>
 
 * [How we safely removed 10,000 lines of code using Emerge Tools’ Reaper](https://blog.duolingo.com/emerge-tools-reaper/), 2024
+* [How we sped up Android and iOS builds by 50%](https://blog.duolingo.com/sped-up-android-ios-builds/), 2024
 
 </details>
 
