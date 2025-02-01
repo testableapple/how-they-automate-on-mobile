@@ -1114,6 +1114,13 @@
 </details>
 
 <details>
+  <summary>Redfin</summary>
+
+* [Bitrise accelerates Redfin's mobile development by 60%, boosting engineering efficiency](https://bitrise.io/case-studies/redfin), 2024
+
+</details>
+
+<details>
   <summary>Revolut</summary>
 
 * [The Fundamentals of iOS at Revolut](https://medium.com/revolut/the-fundamentals-of-ios-at-revolut-57422078c903), 2020
