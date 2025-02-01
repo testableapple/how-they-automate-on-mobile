@@ -1476,6 +1476,8 @@
 * [Our Snapshot Test Journey](https://medium.com/trendyol-tech/our-snapshot-test-journey-bfa8c0ef1906), 2024
 * [Trendyol Maestro Plugin](https://medium.com/trendyol-tech/trendyol-maestro-plugin-ef2771b377a9), 2024
 * [Enabling Tuist Cache: Enhancing the Developer Experience at Trendyol](https://tuist.dev/blog/2024/12/16/trendyol), 2024
+* [How Do We Automate Testing of Clickstream Analytics Events on Dolap iOS App?](https://medium.com/trendyol-tech/how-do-we-automate-testing-of-clickstream-analytics-events-on-dolap-ios-app-8804fa9e2777), 2024
+* [Power of working together: Dolap Dev-In-Test Team](https://medium.com/trendyol-tech/power-of-working-together-dolap-dev-in-test-team-b023a37198fe), 2025
 
 </details>
 
