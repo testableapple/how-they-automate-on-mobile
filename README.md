@@ -264,6 +264,13 @@
 </details>
 
 <details>
+  <summary>BuzzFeed</summary>
+
+* [Bitrise helps BuzzFeed optimize its mobile development to grow customer engagement](https://bitrise.io/blog/post/bitrise-helps-buzzfeed-optimize-its-mobile-development-to-grow-customer-engagement), 2025
+
+</details>
+
+<details>
   <summary>CapitalOne</summary>
 
 * [Test-Driven Development – Ready, Set, Go with Google Cloud Test Lab](https://medium.com/capital-one-tech/be-ready-for-tdd-google-cloud-test-lab-20b07ddabc8b), 2016
