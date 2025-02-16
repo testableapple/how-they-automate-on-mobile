@@ -1082,6 +1082,8 @@
 * [How slow are your Android builds?](https://medium.com/qonto-way/how-slow-are-your-android-builds-4b9e2dec092d), 2021
 * [Unleashing the power of efficiency: Dramatic reduction in test build times](https://medium.com/qonto-way/unleashing-the-power-of-efficiency-dramatic-reduction-in-test-build-times-69e218baaeb), 2023
 * [How one line of code led to +50% faster Swift compilation for tens of thousands of teams](https://medium.com/qonto-way/how-one-line-of-code-led-to-50-faster-swift-compilation-for-tens-of-thousands-of-teams-f55c3b0da933), 2024
+* [From frustration to framework: Revamping UI testing at Qonto](https://medium.com/qonto-way/from-frustration-to-framework-revamping-ui-testing-at-qonto-part-1-paradigm-shift-daa1fc41b2fe), 2025
+* [Bitrise empowers Qonto to deliver faster and enhance customer satisfaction](https://bitrise.io/case-studies/qonto), 2025
 
 </details>
 
