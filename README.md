@@ -1212,6 +1212,13 @@
 </details>
 
 <details>
+  <summary>Sixt</summary>
+
+* [Building an all-around solution for mobility services](https://bitrise.io/customer-stories/sixt), 2025
+
+</details>
+
+<details>
   <summary>Skeelo</summary>
 
 * [Good practices when creating E2E tests at Skeelo](https://engineering.skeelo.com/good-practices-when-creating-e2e-tests-at-skeelo-05e7201f7b6d), 2024
