@@ -1607,6 +1607,13 @@
 </details>
 
 <details>
+  <summary>Wallapop</summary>
+
+* [Building a better CI process at Wallapop](https://bitrise.io/customer-stories/wallapop), 2025
+
+</details>
+
+<details>
   <summary>Wrike</summary>
 
 * [Performance testing of iOS applications](https://www.youtube.com/watch?v=wz_8Q8F8BDM), 2019
