@@ -43,6 +43,13 @@
 </details>
 
 <details>
+  <summary>Affirm</summary>
+
+* [Building a top-notch mobile experience](https://bitrise.io/customer-stories/affirm), 2025
+
+</details>
+
+<details>
   <summary>Agoda</summary>
 
 * [Optimizing CI/CD Processes with Selective Testing](https://medium.com/agoda-engineering/optimizing-ci-cd-processes-with-selective-testing-f537f9abc9d3), 2024
@@ -121,6 +128,13 @@
 </details>
 
 <details>
+  <summary>Atomic Robot</summary>
+
+* [Atomic Robot x Bitrise](https://bitrise.io/customer-stories/atomic-robot), 2025
+
+</details>
+
+<details>
   <summary>Auto.ru</summary>
 
 * [Android UI and Snapshot Testing Experience](https://android-ui-testing.github.io/Cookbook/adoption/companies_experience/#autoru), 2022
@@ -156,6 +170,7 @@
 * [Android Modular Project – Organizing your library dependencies](https://www.babbel.com/en/magazine/android-modular-project-organizing-your-library-dependencies), 2017
 * [Introduction to Test Automation](https://www.babbel.com/en/magazine/introduction-to-test-automation), 2017
 * [Different ways to manage feature toggles on iOS](https://www.babbel.com/en/magazine/different-ways-to-manage-feature-toggles-on-ios), 2019
+* [How Bitrise supports Babbel in bringing innovation to language learning](https://bitrise.io/customer-stories/babbel), 2025
 
 </details>
 
@@ -271,6 +286,20 @@
 </details>
 
 <details>
+  <summary>Cabify</summary>
+
+* [How Cabify speeds up build times and improves build success rates of their high-rated super-app](https://bitrise.io/customer-stories/cabify), 2025
+
+</details>
+
+<details>
+  <summary>Camelot Lottery Solutions</summary>
+
+* [Optimizing build times and efficiency](https://bitrise.io/customer-stories/camelot), 2025
+
+</details>
+
+<details>
   <summary>CapitalOne</summary>
 
 * [Test-Driven Development – Ready, Set, Go with Google Cloud Test Lab](https://medium.com/capital-one-tech/be-ready-for-tdd-google-cloud-test-lab-20b07ddabc8b), 2016
@@ -333,6 +362,13 @@
 </details>
 
 <details>
+  <summary>Cheddar</summary>
+
+* [Cheddar x Bitrise](https://bitrise.io/customer-stories/cheddar), 2025
+
+</details>
+
+<details>
   <summary>CheQ</summary>
 
 * [Automating pre-production iOS app builds](https://medium.com/cheqengineering/automating-pre-production-ios-app-builds-def1756aa33a), 2024
@@ -376,6 +412,7 @@
 * [Automated Mobile Distributions](https://medium.com/compass-true-north/automated-mobile-distributions-15e3791f11c7), 2017
 * [How to UI Test Push Notifications and Universal Links in the iOS Simulator](https://medium.com/compass-true-north/how-to-ui-test-push-notifications-and-universal-links-in-the-ios-simulator-81cc43b33f81), 2021
 * [Moving Fast With Maps (Automation) On iOS](https://medium.com/compass-true-north/moving-fast-with-maps-automation-on-ios-e8801f2ac901), 2021
+* [The need for a stable CI/CD pipeline](https://bitrise.io/customer-stories/compass), 2021
 
 </details>
 
@@ -383,6 +420,13 @@
   <summary>Delivery Club</summary>
 
 * [Android UI Testing Experience](https://android-ui-testing.github.io/Cookbook/adoption/companies_experience/#delivery-club), 2021
+
+</details>
+
+<details>
+  <summary>DeNA</summary>
+
+* [DeNA x Bitrise](https://bitrise.io/customer-stories/dena), 2025
 
 </details>
 
@@ -404,6 +448,13 @@
 </details>
 
 <details>
+  <summary>Dojo</summary>
+
+* [Accelerating mobile processes](https://bitrise.io/customer-stories/dojo), 2025
+
+</details>
+
+<details>
   <summary>DoorDash</summary>
 
 * [Why We Use KIF-Quick for User Interface Tests](https://doordash.engineering/2016/12/26/why-we-use-kif-quick-for-user-interface-tests/), 2016
@@ -420,12 +471,33 @@
 </details>
 
 <details>
+  <summary>Dovetail</summary>
+
+* [Dovetail x Bitrise](https://bitrise.io/customer-stories/dovetail), 2025
+
+</details>
+
+<details>
+  <summary>Droids On Roids</summary>
+
+* [Finding a reliable and convenient CI/CD pipeline](https://bitrise.io/customer-stories/droids-on-roids), 2025
+
+</details>
+
+<details>
   <summary>Dropbox</summary>
 
 * [Modernizing our Android build system](https://dropbox.tech/mobile/modernizing-our-android-build-system-part-i-the-planning), 2019 (series of articles)
 * [Revamping the Android testing pipeline at Dropbox](https://dropbox.tech/mobile/revamping-the-android-testing-pipeline-at-dropbox), 2020
 * [How we sped up Dropbox Android app startup by 30%](https://dropbox.tech/mobile/how-we-sped-up-dropbox-android-app-startup-by-30-), 2021
 * [Introducing Focus, a new open source Gradle plugin](https://dropbox.tech/mobile/introducing-focus-a-new-open-source-gradle-plugin), 2022
+
+</details>
+
+<details>
+  <summary>Drops</summary>
+
+* [Drops x Bitrise](https://bitrise.io/customer-stories/drops), 2025
 
 </details>
 
@@ -477,6 +549,13 @@
 </details>
 
 <details>
+  <summary>Epam</summary>
+
+* [Epam x Bitrise](https://bitrise.io/customer-stories/epam), 2025
+
+</details>
+
+<details>
   <summary>Etsy</summary>
 
 * [Etsy's Device Lab](https://www.etsy.com/codeascraft/mobile-device-lab/), 2013
@@ -485,6 +564,13 @@
 * [Building a Better Mobile Crash Analytics Platform](https://www.etsy.com/codeascraft/building-a-better-mobile-crash-analytics-platform), 2016
 * [How Etsy Ships Apps](https://www.etsy.com/codeascraft/how-etsy-ships-apps), 2017
 * [Culture of Quality: Measuring Code Coverage at Etsy](https://www.etsy.com/codeascraft/culture-of-quality-measuring-code-coverage-at-etsy/), 2018
+
+</details>
+
+<details>
+  <summary>Eureka</summary>
+
+* [Eureka x Bitrise](https://bitrise.io/customer-stories/eureka), 2019
 
 </details>
 
@@ -514,6 +600,13 @@
 * [Raising code quality for Faire’s Kotlin codebase](https://craft.faire.com/raising-code-quality-for-faires-kotlin-codebase-f61420b3e5e6), 2022
 * [Provisioning Jenkins mac1.metal nodes for signing Apple distributions](https://craft.faire.com/provisioning-jenkins-mac1-metal-nodes-for-signing-apple-distributions-f2db98235c28), 2023
 * [How we build reliable E2E tests for iOS at Faire](https://craft.faire.com/how-we-build-reliable-e2e-tests-for-ios-at-faire-d554b3ef5dfc), 2024
+
+</details>
+
+<details>
+  <summary>Fetch</summary>
+
+* [Reducing build times with M1 and a mission to reduce flaky tests with Bitrise Insights](https://bitrise.io/customer-stories/fetch), 2025
 
 </details>
 
@@ -548,6 +641,13 @@
 </details>
 
 <details>
+  <summary>Fueled</summary>
+
+* [Quicker build times and full control over workflows](https://bitrise.io/customer-stories/fueled), 2025
+
+</details>
+
+<details>
   <summary>FunCorp</summary>
 
 * [Creating Impactful Messages With Ad Testing](https://medium.com/swlh/creating-impactful-messages-with-ad-testing-d57dc631577f), 2021
@@ -556,6 +656,20 @@
 * [Stopping NSZombie Invasion](https://medium.com/@FunCorp/stopping-nszombie-invasion-d8fb0250c22e), 2022
 * [Jetpack Microbenchmark: Code Performance Testing](https://medium.com/@FunCorp/jetpack-microbenchmark-code-performance-testing-ce7a4546ba78), 2022
 * [Make your iOS app suitable for UI auto-testing](https://medium.com/@FunCorp/ios-make-your-app-suitable-for-ui-auto-testing-65997ead4dc9), 2023
+
+</details>
+
+<details>
+  <summary>Generali Insurance</summary>
+
+* [How we achieved 20% faster build times](https://bitrise.io/customer-stories/generali), 2025
+
+</details>
+
+<details>
+  <summary>GetYourGuide</summary>
+
+* [GetYourGuide x Bitrise](https://bitrise.io/customer-stories/getyourguide), 2025
 
 </details>
 
@@ -657,6 +771,13 @@
 </details>
 
 <details>
+  <summary>Homeis</summary>
+
+* [Homeis x Bitrise](https://bitrise.io/customer-stories/homeis), 2025
+
+</details>
+
+<details>
   <summary>Huawei</summary>
 
 * [Android | Product Flavors and Build Variants](https://medium.com/huawei-developers/android-product-flavors-and-build-variants-6d8b66a3f541), 2020
@@ -685,6 +806,13 @@
 * [Android UI Testing Experience](https://android-ui-testing.github.io/Cookbook/adoption/companies_experience/#headhunter-hhru), 2021
 * [Automating the release process](https://medium.com/hh-ru/automating-the-release-process-af8f97edc7bc), 2022
 * [Quality assurance for mobile development at hh.ru](https://medium.com/hh-ru/quality-assurance-for-mobile-development-at-hh-ru-b9683e63414f), 2022
+
+</details>
+
+<details>
+  <summary>Ibotta</summary>
+
+* [Ibotta x Bitrise](https://bitrise.io/customer-stories/ibotta), 2025
 
 </details>
 
@@ -814,6 +942,13 @@
 </details>
 
 <details>
+  <summary>Maven Clinic</summary>
+
+* [Bitrise helps Maven Clinic transform its mobile healthcare experience](https://bitrise.io/case-studies/maven-clinic), 2025
+
+</details>
+
+<details>
   <summary>Medium</summary>
 
 * [How We Modularized Medium’s iOS codebase](https://medium.engineering/how-we-modularized-mediums-ios-codebase-8f8f26965c76), 2014
@@ -910,6 +1045,7 @@
   <summary>Mozilla</summary>
 
 * [How Do You Test a Mobile OS?](https://www.youtube.com/watch?v=X41eqcmC2Dk), 2013
+* [Mozilla x Bitrise](https://bitrise.io/customer-stories/mozilla), 2025
 
 </details>
 
@@ -932,9 +1068,23 @@
 </details>
 
 <details>
+  <summary>N26</summary>
+
+* [How Bitrise helped N26 double speed, triple release frequency, and enhance security](https://bitrise.io/customer-stories/n26), 2025
+
+</details>
+
+<details>
   <summary>NatWest</summary>
 
 * [Testing strategy](https://github.com/MobileNativeFoundation/discussions/discussions/6#discussioncomment-4646182), 2022
+
+</details>
+
+<details>
+  <summary>Neo</summary>
+
+* [Optimizing speed and release strategy](https://bitrise.io/customer-stories/neo-financial), 2025
 
 </details>
 
@@ -966,6 +1116,13 @@
 
 * [Notion on Android is now more than twice as fast to launch](https://www.notion.so/blog/notion-on-android-is-now-more-than-twice-as-fast-to-launch), 2024
 * [How Notion Builds Their iOS and Android Apps](https://www.youtube.com/watch?v=Ga7xKYQ41XU), 2024
+
+</details>
+
+<details>
+  <summary>November Five</summary>
+
+* [Saving time and innovating with Bitrise](https://bitrise.io/customer-stories/november-five), 2025
 
 </details>
 
@@ -1028,6 +1185,13 @@
 </details>
 
 <details>
+  <summary>Pixiv</summary>
+
+* [Pixiv x Bitrise](https://bitrise.io/customer-stories/pixiv), 2025
+
+</details>
+
+<details>
   <summary>Playrix</summary>
 
 * [CI/CD at Playrix: How we build and test our games](https://habr.com/en/companies/playrix/articles/479966/), 2019
@@ -1077,6 +1241,13 @@
 </details>
 
 <details>
+  <summary>Pulselive</summary>
+
+* [Pulselive x Bitrise](https://bitrise.io/customer-stories/pulselive), 2025
+
+</details>
+
+<details>
   <summary>Qonto</summary>
 
 * [How slow are your Android builds?](https://medium.com/qonto-way/how-slow-are-your-android-builds-4b9e2dec092d), 2021
@@ -1098,6 +1269,13 @@
   <summary>realestate.com.au</summary>
 
 * [Which hardware are you using to run your CI](https://github.com/MobileNativeFoundation/discussions/discussions/23#discussioncomment-500126), 2021
+
+</details>
+
+<details>
+  <summary>RecoChoku</summary>
+
+* [RecoChoku x Bitrise](https://bitrise.io/customer-stories/recochoku), 2025
 
 </details>
 
@@ -1198,6 +1376,13 @@
 
 * [Automated Memory Leak Testing on iOS](https://showmax.engineering/articles/automated-memory-leak-testing-on-ios), 2019
 * [Consistent Ruby environment for iOS development](https://showmax.engineering/articles/consistent-ruby-environment-for-ios-development), 2019
+
+</details>
+
+<details>
+  <summary>Signify</summary>
+
+* [Signify x Bitrise](https://bitrise.io/customer-stories/signify-philips-hue), 2025
 
 </details>
 
@@ -1361,6 +1546,13 @@
 </details>
 
 <details>
+  <summary>TAG Heuer</summary>
+
+* [Better test coverage & QA processes](https://bitrise.io/customer-stories/tag-heuer), 2025
+
+</details>
+
+<details>
   <summary>Target</summary>
 
 * [Testing strategy](https://github.com/MobileNativeFoundation/discussions/discussions/6#discussioncomment-424089), 2021
@@ -1443,6 +1635,20 @@
 * [A Splash of EarlGrey: UI Testing the Toptal Talent App](https://www.toptal.com/ios/google-earlgrey-testing-guide), 2020
 * [Investing in Unit Testing: Benefits and Approaches](https://www.toptal.com/unit-testing/unit-testing-benefits), 2022
 * [Unit Testing in Flutter: From Workflow Essentials to Complex Scenarios](https://www.toptal.com/flutter/unit-testing-flutter), 2022
+
+</details>
+
+<details>
+  <summary>Trade Me</summary>
+
+* [How Trade Me uses Bitrise to connect Kiwis to goods faster](https://bitrise.io/customer-stories/trade-me), 2025
+
+</details>
+
+<details>
+  <summary>Traveloka</summary>
+
+* [Traveloka x Bitrise](https://bitrise.io/customer-stories/traveloka), 2025
 
 </details>
 
@@ -1556,6 +1762,13 @@
 </details>
 
 <details>
+  <summary>Vestiaire Collective</summary>
+
+* [Vestiaire Collective and Bitrise](https://www.youtube.com/watch?v=ZwMF39yyonw), 2022
+
+</details>
+
+<details>
   <summary>VoucherCodes</summary>
 
 * [Creating an automated test framework for React Native apps](https://medium.com/vouchercodes-tech/creating-an-automated-test-framework-for-react-native-apps-8cd2136348ca), 2023
@@ -1592,6 +1805,13 @@
 
 * [Creating a Lane of Our Own for iOS Automation](https://medium.com/whatnot-engineering/creating-a-lane-of-our-own-for-ios-automation-c9caa31fb800), 2022
 * [Migrating iOS GitHub Actions to Self-Hosted M1 Mac Runners](https://medium.com/whatnot-engineering/migrating-ios-github-actions-to-self-hosted-m1-macs-runners-f75fbb00ab1b), 2023
+
+</details>
+
+<details>
+  <summary>Wise</summary>
+
+* [Wise x Bitrise](https://bitrise.io/customer-stories/transferwise), 2025
 
 </details>
 
@@ -1668,6 +1888,10 @@
 </details>
 
 </details>
+
+## Sponsors
+
+<a target="_blank" rel="noopener noreferrer" href="https://zurl.co/1iyAr"><img src="https://testableapple.com/assets/images/sponsor/bitrise.png" width="260px" alt="Bitrise Logo" style="max-width: 100%;"></a>
 
 ## Contributors
 
