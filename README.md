@@ -1564,6 +1564,7 @@
 
 * [Android Mock API Server](https://engineering.telefonica.com/android-mock-api-server-ac754325b2be), 2024
 * [Screenshot tests for a Design system with Roborazzi](https://engineering.telefonica.com/screenshot-tests-for-a-design-system-with-roborazzi-90f038972961), 2024
+* [Logs Snapshot Testing for Android Instrumentation Tests](https://engineering.telefonica.com/logs-snapshot-testing-for-android-instrumentation-tests-ef2c4ad64ddc), 2025
 
 </details>
 
@@ -1888,10 +1889,6 @@
 </details>
 
 </details>
-
-## Sponsors
-
-<a target="_blank" rel="noopener noreferrer" href="https://zurl.co/1iyAr"><img src="https://testableapple.com/assets/images/sponsor/bitrise.png" width="260px" alt="Bitrise Logo" style="max-width: 100%;"></a>
 
 ## Contributors
 
