@@ -1601,6 +1601,7 @@
   <summary>Tinder</summary>
 
 * [Bazel Hermetic Toolchain and Tooling Migration](https://medium.com/tinder/bazel-hermetic-toolchain-and-tooling-migration-c244dc0d3ae), 2022
+* [How the Tinder iOS App reduced the size of our localizations by 95% using Emerge](https://medium.com/tinder/how-the-tinder-ios-app-reduced-the-size-of-our-localizations-by-95-using-emerge-af624d5b0ff0 ), 2025
 
 </details>
 
