@@ -571,6 +571,7 @@
   <summary>Eureka</summary>
 
 * [Eureka x Bitrise](https://bitrise.io/customer-stories/eureka), 2019
+* [Improving Android release process at Eureka](https://medium.com/eureka-engineering/improving-android-release-process-at-eureka-pairs-app-1f93002f4c95), 2024
 
 </details>
 
