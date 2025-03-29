@@ -1657,6 +1657,14 @@
 </details>
 
 <details>
+  <summary>Trade Republic</summary>
+
+* [Self-Hosted macOS CI on Apple Silicon with Cilicon](https://engineering.traderepublic.com/easy-self-hosted-ci-on-apple-silicon-with-cilicon-6e7d9503c2d6), 2023
+* [Speeding Up UI Tests 4x While Reducing Costs](https://engineering.traderepublic.com/speeding-up-ui-tests-4x-while-reducing-costs-831768916f86), 2024
+
+</details>
+
+<details>
   <summary>Traveloka</summary>
 
 * [Traveloka x Bitrise](https://bitrise.io/customer-stories/traveloka), 2025
