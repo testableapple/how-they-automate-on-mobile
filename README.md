@@ -1369,6 +1369,7 @@
 * [Testing strategy](https://github.com/MobileNativeFoundation/discussions/discussions/6#discussioncomment-423251), 2021
 * [Reusing Code with React Native Packages at Shopify](https://shopify.engineering/react-native-packages-shopify), 2021
 * [Tophat: Crafting a Delightful Mobile Developer Experience](https://shopify.engineering/shopify-tophat-mobile-developer-testing), 2024
+* [Bitrise provides Shopify with a one-stop mobile solution for growth](https://bitrise.io/case-studies/shopify), 2025
 
 </details>
 
