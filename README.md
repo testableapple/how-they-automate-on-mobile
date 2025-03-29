@@ -1036,6 +1036,13 @@
 </details>
 
 <details>
+  <summary>Monday.com</summary>
+
+* [How monday.com’s mobile teams help users level-up productivity by using Runway to level-up their own](https://www.runway.team/customers/monday-com), 2025
+
+</details>
+
+<details>
   <summary>Monese</summary>
 
 * [Mobile testing at Monese](https://medium.com/monese/mobile-testing-at-monese-f06a6c3bc789), 2020
