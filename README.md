@@ -491,6 +491,7 @@
 * [Revamping the Android testing pipeline at Dropbox](https://dropbox.tech/mobile/revamping-the-android-testing-pipeline-at-dropbox), 2020
 * [How we sped up Dropbox Android app startup by 30%](https://dropbox.tech/mobile/how-we-sped-up-dropbox-android-app-startup-by-30-), 2021
 * [Introducing Focus, a new open source Gradle plugin](https://dropbox.tech/mobile/introducing-focus-a-new-open-source-gradle-plugin), 2022
+* [How Dropbox leverages testing to maintain high level of trust at scale](https://medium.com/androiddevelopers/how-dropbox-leverages-testing-to-maintain-high-level-of-trust-at-scale-b7b1bdf6161e), 2025
 
 </details>
 
@@ -1927,9 +1928,9 @@ Want to contribute? Just fork and raise a PR!
 * [MobileNativeFoundation](https://github.com/MobileNativeFoundation/discussions) for the open discussions
 * [Android-UI-Testing](https://github.com/android-ui-testing/Cookbook) for the Cookbook initiative
 
-## Code of Conduct
+## Star History
 
-Help us keep the project open and inclusive. Please read and follow our [Code of Conduct](/CODE_OF_CONDUCT.md).
+[![Star History Chart](https://api.star-history.com/svg?repos=testableapple/how-they-automate-on-mobile&type=Date)](https://star-history.com/#testableapple/how-they-automate-on-mobile&Date)
 
 ## License
 
