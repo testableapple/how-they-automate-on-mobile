@@ -1101,6 +1101,7 @@
 
 * [Testing Netflix on Android](https://netflixtechblog.com/testing-netflix-on-android-78e5f71b89ab), 2012
 * [Automated testing on devices](https://netflixtechblog.com/automated-testing-on-devices-fc5a39f47e24), 2016
+* [Netflix App Testing At Scale](https://medium.com/androiddevelopers/netflix-app-testing-at-scale-eb4ef6b40124), 2025
 
 </details>
 
