@@ -534,6 +534,13 @@
 </details>
 
 <details>
+  <summary>Eneco</summary>
+
+* [How Eneco Upgraded from Manual QA to Automated Testing with Maestro](https://maestro.dev/blog/maestro-case-study-eneco), 2025
+
+</details>
+
+<details>
   <summary>Engenious</summary>
 
 * [Xcode Parallel Test Execution of XCUITest is a Joke](https://medium.com/@engenious.io/xcode-parallel-test-execution-of-xcutest-is-joke-but-i-found-a-scalable-and-solid-solution-031aaaa92814), 2023
