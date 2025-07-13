@@ -1813,6 +1813,13 @@
 </details>
 
 <details>
+  <summary>Vodafone</summary>
+
+* [Improve Android App Performance With Baseline Profiles](https://tech.gr.vodafone.com/post/android-baseline-profiles), 2025
+
+</details>
+
+<details>
   <summary>VoucherCodes</summary>
 
 * [Creating an automated test framework for React Native apps](https://medium.com/vouchercodes-tech/creating-an-automated-test-framework-for-react-native-apps-8cd2136348ca), 2023
