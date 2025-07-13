@@ -438,6 +438,13 @@
 </details>
 
 <details>
+  <summary>Doccla</summary>
+
+* [How Doccla Transformed Mobile App Testing with Maestro](https://maestro.dev/blog/case-study-doccla), 2025
+
+</details>
+
+<details>
   <summary>Dodo Pizza</summary>
 
 * [QA Mobile Technology Radar](https://radar.thoughtworks.com/?documentId=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2Fe%2F2PACX-1vRhhv36dMgQWyL24qt9NTmoh3guKjGUK9AawBw85N_MOe1trvSmZQeU99QJglm1Do__Lac8cEYzItnI%2Fpub%3Foutput%3Dcsv%26format%3D%2FDodo+Engineering+-+QA+mobile+-+2023.csv), 2023
