@@ -417,6 +417,13 @@
 </details>
 
 <details>
+  <summary>Coupang</summary>
+
+* [Improving the CI/CD pipeline for mobile app development](https://medium.com/coupang-engineering/improving-the-ci-cd-pipeline-for-mobile-app-development-80912546a4fd), 2025
+
+</details>
+
+<details>
   <summary>Delivery Club</summary>
 
 * [Android UI Testing Experience](https://android-ui-testing.github.io/Cookbook/adoption/companies_experience/#delivery-club), 2021
