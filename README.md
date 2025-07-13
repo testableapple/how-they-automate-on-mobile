@@ -1312,6 +1312,14 @@
 </details>
 
 <details>
+  <summary>RevenueCat</summary>
+
+* [How we test SDKs at RevenueCat](https://www.revenuecat.com/blog/engineering/test-sdks-revenuecat/), 2022
+* [How RevenueCat’s SDK team uses Release Trains](https://www.revenuecat.com/blog/engineering/revenuecat-sdk-release-trains/), 2022
+
+</details>
+
+<details>
   <summary>Revolut</summary>
 
 * [The Fundamentals of iOS at Revolut](https://medium.com/revolut/the-fundamentals-of-ios-at-revolut-57422078c903), 2020
