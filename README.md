@@ -895,6 +895,7 @@
 * [How to make Espresso tests more readable and stable](https://medium.com/kasperskymedia/how-to-make-espresso-tests-more-readable-and-stable-c0a055ce1fb7), 2023
 * [How to make automated tests flexible and concise](https://medium.com/kasperskymedia/how-to-make-automated-tests-flexible-and-concise-e3e5ec0d8d00), 2023
 * [100% Flakiness-free UI test automation with Kaspresso and Allure Testops](https://medium.com/kasperskymedia/100-flakiness-free-ui-test-automation-with-kaspresso-and-allure-testops-bdac665668fe), 2023
+* [UI tests on Android. How do we test an app that requires permissions?](https://medium.com/kasperskymedia/ui-tests-on-android-how-do-we-test-an-app-that-requires-permissions-62db15db4aca), 2024
 
 </details>
 
