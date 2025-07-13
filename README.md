@@ -1813,6 +1813,13 @@
 </details>
 
 <details>
+  <summary>Wahed</summary>
+
+* [From Hours to Minutes: How Wahed Revolutionized Mobile App Testing with Maestro](https://maestro.dev/blog/wahed-maestro-mobile-testing-speed), 2025
+
+</details>
+
+<details>
   <summary>Walmart</summary>
 
 * [iOS Test Automation @WalmartLabs](https://medium.com/walmartglobaltech/ios-test-automation-walmartlabs-d8668d85a27), 2017
