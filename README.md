@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://testableapple.com/subscribe/"><img src="https://img.shields.io/badge/stay-tuned-blue?style=flat" /></a>
-  <a href="http://makeapullrequest.com"><img src="https://img.shields.io/badge/contributions-welcome-green.svg?style=flat" /></a>
+  <a href="https://github.com/testableapple/how-they-automate-on-mobile/compare"><img src="https://img.shields.io/badge/contributions-welcome-green.svg?style=flat" /></a>
 </p>
 
 ## Kind of topics here
