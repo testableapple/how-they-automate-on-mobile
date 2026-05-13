@@ -1973,10 +1973,6 @@ Want to contribute? Just fork and raise a PR!
 * [MobileNativeFoundation](https://github.com/MobileNativeFoundation/discussions) for the open discussions
 * [Android-UI-Testing](https://github.com/android-ui-testing/Cookbook) for the Cookbook initiative
 
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=testableapple/how-they-automate-on-mobile&type=Date)](https://star-history.com/#testableapple/how-they-automate-on-mobile&Date)
-
 ## License
 
 This project is licensed under the terms of the MIT license. See the [LICENSE](/LICENSE) file.
